@@ -1,0 +1,994 @@
+member_row_id,issue_key,pid,member_number,age,age_group,gender,race_ethnicity,relationship_group
+NEIG-19349-M1,NEIG-19349,P0289,1,4.0,0-5,Female,Black or African American,Child
+NEIG-19349-M2,NEIG-19349,P0289,2,0.0,0-5,Male,Black or African American,Child
+NEIG-19324-M1,NEIG-19324,P0308,1,34.0,18-64,Female,Multiracial,Spouse/partner
+NEIG-19324-M2,NEIG-19324,P0308,2,10.0,6-17,Male,Multiracial,Child
+NEIG-19324-M3,NEIG-19324,P0308,3,8.0,6-17,Female,Multiracial,Child
+NEIG-19324-M4,NEIG-19324,P0308,4,2.0,0-5,Male,Multiracial,Child
+NEIG-19311-M1,NEIG-19311,P0253,1,17.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-19311-M2,NEIG-19311,P0253,2,3.0,0-5,Not recorded,Not recorded,Child
+NEIG-19296-M1,NEIG-19296,P0102,1,6.0,6-17,Male,Multiracial,Child
+NEIG-19296-M2,NEIG-19296,P0102,2,1.0,0-5,Male,Multiracial,Child
+NEIG-19283-M1,NEIG-19283,P0201,1,21.0,18-64,Female,Black or African American,Child
+NEIG-19283-M2,NEIG-19283,P0201,2,19.0,18-64,Female,Black or African American,Child
+NEIG-19283-M3,NEIG-19283,P0201,3,1.0,0-5,Male,Black or African American,Grandchild
+NEIG-19273-M1,NEIG-19273,P0037,1,7.0,6-17,Male,Black or African American,Child
+NEIG-19273-M2,NEIG-19273,P0037,2,5.0,0-5,Not recorded,Black or African American,Child
+NEIG-19264-M1,NEIG-19264,P0339,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-19258-M1,NEIG-19258,P0353,1,10.0,6-17,Male,White,Child
+NEIG-19258-M2,NEIG-19258,P0353,2,9.0,6-17,Male,White,Child
+NEIG-19258-M3,NEIG-19258,P0353,3,0.0,0-5,Female,White,Child
+NEIG-19258-M4,NEIG-19258,P0353,4,28.0,18-64,Female,White,Parent
+NEIG-19258-M5,NEIG-19258,P0353,5,37.0,18-64,Male,White,Parent
+NEIG-19245-M1,NEIG-19245,P0191,1,6.0,6-17,Male,Not recorded,Child
+NEIG-19245-M2,NEIG-19245,P0191,2,1.0,0-5,Female,Not recorded,Child
+NEIG-19209-M1,NEIG-19209,P0146,1,7.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-19209-M2,NEIG-19209,P0146,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19209-M3,NEIG-19209,P0146,3,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19209-M4,NEIG-19209,P0146,4,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19209-M5,NEIG-19209,P0146,5,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19196-M1,NEIG-19196,P0045,1,2.0,0-5,Not recorded,Multiracial,Child
+NEIG-19196-M2,NEIG-19196,P0045,2,2.0,0-5,Not recorded,Multiracial,Child
+NEIG-19196-M3,NEIG-19196,P0045,3,1.0,0-5,Not recorded,Multiracial,Child
+NEIG-19179-M1,NEIG-19179,P0309,1,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-19179-M2,NEIG-19179,P0309,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19179-M3,NEIG-19179,P0309,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19158-M1,NEIG-19158,P0298,1,4.0,0-5,Female,Not recorded,Child
+NEIG-19155-M1,NEIG-19155,P0022,1,10.0,6-17,Male,Black or African American,Child
+NEIG-19155-M2,NEIG-19155,P0022,2,7.0,6-17,Female,Black or African American,Child
+NEIG-19155-M3,NEIG-19155,P0022,3,5.0,0-5,Male,Black or African American,Child
+NEIG-19155-M4,NEIG-19155,P0022,4,3.0,0-5,Male,Black or African American,Child
+NEIG-19155-M5,NEIG-19155,P0022,5,1.0,0-5,Male,Black or African American,Child
+NEIG-19150-M1,NEIG-19150,P0239,1,1.0,0-5,Female,Not recorded,Child
+NEIG-19135-M1,NEIG-19135,P0125,1,14.0,6-17,Female,Multiracial,Child
+NEIG-19135-M2,NEIG-19135,P0125,2,4.0,0-5,Male,Not recorded,Child
+NEIG-19128-M1,NEIG-19128,P0392,1,22.0,18-64,Female,Not recorded,Spouse/partner
+NEIG-19115-M1,NEIG-19115,P0204,1,21.0,18-64,Not recorded,Black or African American,Friend/other
+NEIG-19115-M2,NEIG-19115,P0204,2,3.0,0-5,Not recorded,Black or African American,Child
+NEIG-19115-M3,NEIG-19115,P0204,3,0.0,0-5,Not recorded,Black or African American,Child
+NEIG-19088-M1,NEIG-19088,P0298,1,4.0,0-5,Female,Not recorded,Child
+NEIG-19078-M1,NEIG-19078,P0226,1,2.0,0-5,Male,Multiracial,Child
+NEIG-19078-M2,NEIG-19078,P0226,2,15.0,6-17,Male,Multiracial,Child
+NEIG-19033-M1,NEIG-19033,P0385,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-19033-M2,NEIG-19033,P0385,2,,Not recorded,Male,Not recorded,Not recorded
+NEIG-19033-M3,NEIG-19033,P0385,3,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-19033-M4,NEIG-19033,P0385,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-19033-M5,NEIG-19033,P0385,5,,Not recorded,Female,Not recorded,Not recorded
+NEIG-19033-M6,NEIG-19033,P0385,6,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19033-M7,NEIG-19033,P0385,7,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-19033-M8,NEIG-19033,P0385,8,0.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19029-M1,NEIG-19029,P0316,1,53.0,18-64,Female,White,Spouse/partner
+NEIG-19029-M2,NEIG-19029,P0316,2,19.0,18-64,Male,White,Child
+NEIG-19029-M3,NEIG-19029,P0316,3,6.0,6-17,Male,Multiracial,Grandchild
+NEIG-19025-M1,NEIG-19025,P0149,1,32.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-19025-M2,NEIG-19025,P0149,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19025-M3,NEIG-19025,P0149,3,15.0,6-17,Male,Not recorded,Not recorded
+NEIG-19025-M4,NEIG-19025,P0149,4,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-19025-M5,NEIG-19025,P0149,5,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-19020-M1,NEIG-19020,P0355,1,0.0,0-5,Male,Not recorded,Child
+NEIG-19006-M1,NEIG-19006,P0164,1,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-19006-M2,NEIG-19006,P0164,2,3.0,0-5,Male,Not recorded,Child
+NEIG-19006-M3,NEIG-19006,P0164,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-19006-M4,NEIG-19006,P0164,4,0.0,0-5,Not recorded,Not recorded,Child
+NEIG-19001-M1,NEIG-19001,P0215,1,7.0,6-17,Female,Black or African American,Not recorded
+NEIG-18986-M1,NEIG-18986,P0070,1,27.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-18986-M2,NEIG-18986,P0070,2,12.0,6-17,Male,Black or African American,Child
+NEIG-18986-M3,NEIG-18986,P0070,3,10.0,6-17,Female,Not recorded,Child
+NEIG-18986-M4,NEIG-18986,P0070,4,4.0,0-5,Female,Not recorded,Child
+NEIG-18928-M1,NEIG-18928,P0365,1,6.0,6-17,Female,Black or African American,Child
+NEIG-18928-M2,NEIG-18928,P0365,2,1.0,0-5,Male,Black or African American,Child
+NEIG-18928-M3,NEIG-18928,P0365,3,26.0,18-64,Female,Black or African American,Friend/other
+NEIG-18928-M4,NEIG-18928,P0365,4,,Not recorded,Female,Black or African American,Child
+NEIG-18928-M5,NEIG-18928,P0365,5,1.0,0-5,Male,Black or African American,Child
+NEIG-18928-M6,NEIG-18928,P0365,6,2.0,0-5,Female,Black or African American,Child
+NEIG-18928-M7,NEIG-18928,P0365,7,0.0,0-5,Male,Black or African American,Child
+NEIG-18911-M1,NEIG-18911,P0003,1,6.0,6-17,Not recorded,Black or African American,Child
+NEIG-18911-M2,NEIG-18911,P0003,2,3.0,0-5,Not recorded,Not recorded,Child
+NEIG-18907-M1,NEIG-18907,P0193,1,26.0,18-64,Female,Black or African American,Spouse/partner
+NEIG-18907-M2,NEIG-18907,P0193,2,3.0,0-5,Female,Black or African American,Child
+NEIG-18888-M1,NEIG-18888,P0154,1,26.0,18-64,Not recorded,Black or African American,Spouse/partner
+NEIG-18888-M2,NEIG-18888,P0154,2,4.0,0-5,Not recorded,Black or African American,Child
+NEIG-18888-M3,NEIG-18888,P0154,3,6.0,6-17,Not recorded,Black or African American,Child
+NEIG-18888-M4,NEIG-18888,P0154,4,0.0,0-5,Not recorded,Black or African American,Child
+NEIG-18886-M1,NEIG-18886,P0104,1,13.0,6-17,Male,Black or African American,Child
+NEIG-18886-M2,NEIG-18886,P0104,2,11.0,6-17,Male,Black or African American,Child
+NEIG-18886-M3,NEIG-18886,P0104,3,5.0,0-5,Male,Black or African American,Child
+NEIG-18871-M1,NEIG-18871,P0075,1,15.0,6-17,Male,Black or African American,Child
+NEIG-18871-M2,NEIG-18871,P0075,2,14.0,6-17,Male,Black or African American,Child
+NEIG-18871-M3,NEIG-18871,P0075,3,13.0,6-17,Male,Black or African American,Child
+NEIG-18871-M4,NEIG-18871,P0075,4,11.0,6-17,Female,Black or African American,Child
+NEIG-18871-M5,NEIG-18871,P0075,5,9.0,6-17,Male,Black or African American,Child
+NEIG-18871-M6,NEIG-18871,P0075,6,5.0,0-5,Female,Black or African American,Child
+NEIG-18738-M1,NEIG-18738,P0232,1,0.0,0-5,Male,Not recorded,Child
+NEIG-18690-M1,NEIG-18690,P0181,1,26.0,18-64,Female,Multiracial,Not recorded
+NEIG-18690-M2,NEIG-18690,P0181,2,5.0,0-5,Female,Multiracial,Not recorded
+NEIG-18690-M3,NEIG-18690,P0181,3,4.0,0-5,Male,Multiracial,Not recorded
+NEIG-18667-M1,NEIG-18667,P0218,1,6.0,6-17,Female,Multiracial,Child
+NEIG-18667-M2,NEIG-18667,P0218,2,5.0,0-5,Female,Multiracial,Child
+NEIG-18625-M1,NEIG-18625,P0237,1,,Not recorded,Female,Not recorded,Spouse/partner
+NEIG-18625-M2,NEIG-18625,P0237,2,3.0,0-5,Female,Not recorded,Child
+NEIG-18625-M3,NEIG-18625,P0237,3,0.0,0-5,Female,Not recorded,Child
+NEIG-18613-M1,NEIG-18613,P0390,1,33.0,18-64,Female,Not recorded,Not recorded
+NEIG-18572-M1,NEIG-18572,P0262,1,1.0,0-5,Not recorded,Multiracial,Child
+NEIG-18553-M1,NEIG-18553,P0208,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18538-M1,NEIG-18538,P0252,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18538-M2,NEIG-18538,P0252,2,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-18538-M3,NEIG-18538,P0252,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18538-M4,NEIG-18538,P0252,4,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-18538-M5,NEIG-18538,P0252,5,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18538-M6,NEIG-18538,P0252,6,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-18538-M7,NEIG-18538,P0252,7,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18538-M8,NEIG-18538,P0252,8,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-18488-M1,NEIG-18488,P0277,1,,Not recorded,Male,Not recorded,Not recorded
+NEIG-18451-M1,NEIG-18451,P0218,1,6.0,6-17,Female,Multiracial,Child
+NEIG-18451-M2,NEIG-18451,P0218,2,5.0,0-5,Female,Multiracial,Child
+NEIG-18440-M1,NEIG-18440,P0186,1,9.0,6-17,Male,Not recorded,Not recorded
+NEIG-18440-M2,NEIG-18440,P0186,2,7.0,6-17,Female,Not recorded,Not recorded
+NEIG-18440-M3,NEIG-18440,P0186,3,4.0,0-5,Female,Not recorded,Not recorded
+NEIG-18434-M1,NEIG-18434,P0033,1,28.0,18-64,Male,Multiracial,Spouse/partner
+NEIG-18434-M2,NEIG-18434,P0033,2,8.0,6-17,Male,Multiracial,Child
+NEIG-18434-M3,NEIG-18434,P0033,3,5.0,0-5,Male,Multiracial,Child
+NEIG-18434-M4,NEIG-18434,P0033,4,1.0,0-5,Female,Multiracial,Child
+NEIG-18412-M1,NEIG-18412,P0079,1,13.0,6-17,Not recorded,Not recorded,Child
+NEIG-18412-M2,NEIG-18412,P0079,2,14.0,6-17,Not recorded,Not recorded,Child
+NEIG-18412-M3,NEIG-18412,P0079,3,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-18396-M1,NEIG-18396,P0127,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18389-M1,NEIG-18389,P0354,1,30.0,18-64,Male,Asian,Spouse/partner
+NEIG-18389-M2,NEIG-18389,P0354,2,24.0,18-64,Female,Not recorded,Not recorded
+NEIG-18389-M3,NEIG-18389,P0354,3,1.0,0-5,Male,Asian,Child
+NEIG-18389-M4,NEIG-18389,P0354,4,57.0,18-64,Female,Not recorded,Not recorded
+NEIG-18389-M5,NEIG-18389,P0354,5,66.0,65+,Male,Not recorded,Not recorded
+NEIG-18389-M6,NEIG-18389,P0354,6,3.0,0-5,Female,Asian,Child
+NEIG-18356-M1,NEIG-18356,P0202,1,39.0,18-64,Male,Multiracial,Not recorded
+NEIG-18356-M2,NEIG-18356,P0202,2,12.0,6-17,Female,Not recorded,Not recorded
+NEIG-18356-M3,NEIG-18356,P0202,3,10.0,6-17,Male,Not recorded,Not recorded
+NEIG-18356-M4,NEIG-18356,P0202,4,4.0,0-5,Male,Not recorded,Not recorded
+NEIG-18345-M1,NEIG-18345,P0035,1,8.0,6-17,Female,Black or African American,Child
+NEIG-18345-M2,NEIG-18345,P0035,2,3.0,0-5,Female,Black or African American,Child
+NEIG-18345-M3,NEIG-18345,P0035,3,2.0,0-5,Female,Black or African American,Child
+NEIG-18345-M4,NEIG-18345,P0035,4,0.0,0-5,Female,Black or African American,Child
+NEIG-18325-M1,NEIG-18325,P0005,1,21.0,18-64,Female,Black or African American,Other relative
+NEIG-18325-M2,NEIG-18325,P0005,2,0.0,0-5,Male,Black or African American,Other relative
+NEIG-18306-M1,NEIG-18306,P0334,1,4.0,0-5,Female,Not recorded,Child
+NEIG-18306-M2,NEIG-18306,P0334,2,10.0,6-17,Female,Not recorded,Child
+NEIG-18299-M1,NEIG-18299,P0063,1,17.0,6-17,Male,Not recorded,Child
+NEIG-18299-M2,NEIG-18299,P0063,2,10.0,6-17,Male,Not recorded,Child
+NEIG-18299-M3,NEIG-18299,P0063,3,6.0,6-17,Male,Not recorded,Child
+NEIG-18299-M4,NEIG-18299,P0063,4,2.0,0-5,Male,Not recorded,Child
+NEIG-18273-M1,NEIG-18273,P0294,1,17.0,6-17,Female,Not recorded,Not recorded
+NEIG-18273-M2,NEIG-18273,P0294,2,15.0,6-17,Female,Multiracial,Child
+NEIG-18273-M3,NEIG-18273,P0294,3,10.0,6-17,Male,Not recorded,Not recorded
+NEIG-18267-M1,NEIG-18267,P0261,1,6.0,6-17,Female,Not recorded,Child
+NEIG-18267-M2,NEIG-18267,P0261,2,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-18267-M3,NEIG-18267,P0261,3,4.0,0-5,Not recorded,Not recorded,Child
+NEIG-18267-M4,NEIG-18267,P0261,4,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-18239-M1,NEIG-18239,P0293,1,,Not recorded,Male,Not recorded,Not recorded
+NEIG-18220-M1,NEIG-18220,P0076,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18215-M1,NEIG-18215,P0376,1,9.0,6-17,Female,Multiracial,Child
+NEIG-18215-M2,NEIG-18215,P0376,2,6.0,6-17,Female,Multiracial,Child
+NEIG-18215-M3,NEIG-18215,P0376,3,2.0,0-5,Female,Multiracial,Child
+NEIG-18215-M4,NEIG-18215,P0376,4,1.0,0-5,Male,Multiracial,Child
+NEIG-18211-M1,NEIG-18211,P0279,1,5.0,0-5,Female,Not recorded,Child
+NEIG-18187-M1,NEIG-18187,P0025,1,24.0,18-64,Female,Not recorded,Not recorded
+NEIG-18187-M2,NEIG-18187,P0025,2,0.0,0-5,Male,Not recorded,Not recorded
+NEIG-18156-M1,NEIG-18156,P0072,1,8.0,6-17,Not recorded,Hispanic or Latino,Child
+NEIG-18156-M2,NEIG-18156,P0072,2,6.0,6-17,Not recorded,Hispanic or Latino,Child
+NEIG-18156-M3,NEIG-18156,P0072,3,0.0,0-5,Not recorded,Hispanic or Latino,Child
+NEIG-18142-M1,NEIG-18142,P0072,1,8.0,6-17,Male,Hispanic or Latino,Child
+NEIG-18142-M2,NEIG-18142,P0072,2,6.0,6-17,Male,Hispanic or Latino,Child
+NEIG-18142-M3,NEIG-18142,P0072,3,0.0,0-5,Male,Hispanic or Latino,Child
+NEIG-18116-M1,NEIG-18116,P0158,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-18099-M1,NEIG-18099,P0227,1,0.0,0-5,Female,Not recorded,Child
+NEIG-18034-M1,NEIG-18034,P0150,1,15.0,6-17,Male,Black or African American,Child
+NEIG-18034-M2,NEIG-18034,P0150,2,14.0,6-17,Female,Black or African American,Child
+NEIG-18034-M3,NEIG-18034,P0150,3,6.0,6-17,Male,Black or African American,Child
+NEIG-18034-M4,NEIG-18034,P0150,4,5.0,0-5,Male,Black or African American,Child
+NEIG-18034-M5,NEIG-18034,P0150,5,4.0,0-5,Female,Black or African American,Child
+NEIG-18034-M6,NEIG-18034,P0150,6,4.0,0-5,Female,Black or African American,Child
+NEIG-18014-M1,NEIG-18014,P0013,1,1.0,0-5,Not recorded,Not recorded,Child
+NEIG-18014-M2,NEIG-18014,P0013,2,0.0,0-5,Not recorded,Not recorded,Child
+NEIG-18014-M3,NEIG-18014,P0013,3,35.0,18-64,Not recorded,Not recorded,Spouse/partner
+NEIG-17963-M1,NEIG-17963,P0328,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17963-M2,NEIG-17963,P0328,2,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-17963-M3,NEIG-17963,P0328,3,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17953-M1,NEIG-17953,P0380,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17953-M2,NEIG-17953,P0380,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17836-M1,NEIG-17836,P0067,1,12.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-17803-M1,NEIG-17803,P0387,1,72.0,65+,Male,Multiracial,Spouse/partner
+NEIG-17803-M2,NEIG-17803,P0387,2,35.0,18-64,Male,Multiracial,Child
+NEIG-17803-M3,NEIG-17803,P0387,3,5.0,0-5,Female,Multiracial,Grandchild
+NEIG-17803-M4,NEIG-17803,P0387,4,13.0,6-17,Female,Multiracial,Grandchild
+NEIG-17785-M1,NEIG-17785,P0086,1,15.0,6-17,Male,Black or African American,Child
+NEIG-17785-M2,NEIG-17785,P0086,2,8.0,6-17,Male,Black or African American,Child
+NEIG-17785-M3,NEIG-17785,P0086,3,3.0,0-5,Male,Black or African American,Child
+NEIG-17769-M1,NEIG-17769,P0244,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17729-M1,NEIG-17729,P0020,1,5.0,0-5,Female,Multiracial,Child
+NEIG-17729-M2,NEIG-17729,P0020,2,4.0,0-5,Female,Multiracial,Child
+NEIG-17723-M1,NEIG-17723,P0228,1,8.0,6-17,Male,Black or African American,Child
+NEIG-17723-M2,NEIG-17723,P0228,2,3.0,0-5,Male,Black or African American,Child
+NEIG-17718-M1,NEIG-17718,P0141,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17701-M1,NEIG-17701,P0225,1,1.0,0-5,Male,Multiracial,Child
+NEIG-17679-M1,NEIG-17679,P0329,1,6.0,6-17,Male,Not recorded,Child
+NEIG-17679-M2,NEIG-17679,P0329,2,4.0,0-5,Male,Not recorded,Child
+NEIG-17668-M1,NEIG-17668,P0264,1,7.0,6-17,Male,Black or African American,Child
+NEIG-17668-M2,NEIG-17668,P0264,2,4.0,0-5,Female,Black or African American,Child
+NEIG-17638-M1,NEIG-17638,P0140,1,7.0,6-17,Male,Multiracial,Child
+NEIG-17638-M2,NEIG-17638,P0140,2,4.0,0-5,Male,Multiracial,Child
+NEIG-17638-M3,NEIG-17638,P0140,3,2.0,0-5,Female,Multiracial,Child
+NEIG-17623-M1,NEIG-17623,P0053,1,3.0,0-5,Not recorded,Black or African American,Child
+NEIG-17615-M1,NEIG-17615,P0019,1,35.0,18-64,Male,White,Spouse/partner
+NEIG-17615-M2,NEIG-17615,P0019,2,2.0,0-5,Female,White,Child
+NEIG-17615-M3,NEIG-17615,P0019,3,8.0,6-17,Female,White,Child
+NEIG-17615-M4,NEIG-17615,P0019,4,13.0,6-17,Male,White,Other relative
+NEIG-17615-M5,NEIG-17615,P0019,5,12.0,6-17,Male,White,Child
+NEIG-17562-M1,NEIG-17562,P0050,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17557-M1,NEIG-17557,P0374,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17557-M2,NEIG-17557,P0374,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17557-M3,NEIG-17557,P0374,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17497-M1,NEIG-17497,P0331,1,2.0,0-5,Female,Not recorded,Child
+NEIG-17483-M1,NEIG-17483,P0059,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17469-M1,NEIG-17469,P0142,1,2.0,0-5,Male,Black or African American,Child
+NEIG-17469-M2,NEIG-17469,P0142,2,0.0,0-5,Male,Not recorded,Child
+NEIG-17437-M1,NEIG-17437,P0301,1,32.0,18-64,Not recorded,Not recorded,Spouse/partner
+NEIG-17437-M2,NEIG-17437,P0301,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17422-M1,NEIG-17422,P0338,1,10.0,6-17,Not recorded,Black or African American,Child
+NEIG-17422-M2,NEIG-17422,P0338,2,11.0,6-17,Not recorded,Black or African American,Child
+NEIG-17422-M3,NEIG-17422,P0338,3,8.0,6-17,Not recorded,Black or African American,Child
+NEIG-17422-M4,NEIG-17422,P0338,4,4.0,0-5,Not recorded,Black or African American,Child
+NEIG-17400-M1,NEIG-17400,P0176,1,7.0,6-17,Female,Black or African American,Child
+NEIG-17400-M2,NEIG-17400,P0176,2,1.0,0-5,Male,Black or African American,Child
+NEIG-17399-M1,NEIG-17399,P0069,1,10.0,6-17,Male,Not recorded,Not recorded
+NEIG-17399-M2,NEIG-17399,P0069,2,7.0,6-17,Male,Not recorded,Child
+NEIG-17399-M3,NEIG-17399,P0069,3,4.0,0-5,Male,Not recorded,Child
+NEIG-17399-M4,NEIG-17399,P0069,4,2.0,0-5,Female,Not recorded,Child
+NEIG-17385-M1,NEIG-17385,P0189,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17385-M2,NEIG-17385,P0189,2,,Not recorded,Male,Not recorded,Not recorded
+NEIG-17385-M3,NEIG-17385,P0189,3,9.0,6-17,Male,Not recorded,Not recorded
+NEIG-17374-M1,NEIG-17374,P0351,1,15.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-17351-M1,NEIG-17351,P0389,1,3.0,0-5,Male,Not recorded,Child
+NEIG-17333-M1,NEIG-17333,P0368,1,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-17311-M1,NEIG-17311,P0345,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17242-M1,NEIG-17242,P0323,1,42.0,18-64,Male,White,Spouse/partner
+NEIG-17242-M2,NEIG-17242,P0323,2,3.0,0-5,Male,White,Child
+NEIG-17242-M3,NEIG-17242,P0323,3,11.0,6-17,Male,White,Child
+NEIG-17228-M1,NEIG-17228,P0116,1,38.0,18-64,Female,Not recorded,Not recorded
+NEIG-17228-M2,NEIG-17228,P0116,2,15.0,6-17,Female,Not recorded,Not recorded
+NEIG-17228-M3,NEIG-17228,P0116,3,9.0,6-17,Male,Not recorded,Not recorded
+NEIG-17228-M4,NEIG-17228,P0116,4,7.0,6-17,Male,Not recorded,Not recorded
+NEIG-17228-M5,NEIG-17228,P0116,5,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17217-M1,NEIG-17217,P0287,1,27.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-17217-M2,NEIG-17217,P0287,2,23.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-17217-M3,NEIG-17217,P0287,3,7.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-17217-M4,NEIG-17217,P0287,4,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17217-M5,NEIG-17217,P0287,5,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-17209-M1,NEIG-17209,P0028,1,3.0,0-5,Female,Not recorded,Child
+NEIG-17167-M1,NEIG-17167,P0054,1,0.0,0-5,Male,Not recorded,Child
+NEIG-17154-M1,NEIG-17154,P0085,1,15.0,6-17,Male,Black or African American,Child
+NEIG-17154-M2,NEIG-17154,P0085,2,8.0,6-17,Male,Black or African American,Child
+NEIG-17154-M3,NEIG-17154,P0085,3,3.0,0-5,Male,Black or African American,Child
+NEIG-17143-M1,NEIG-17143,P0147,1,,Not recorded,Not recorded,Hispanic or Latino,Child
+NEIG-17143-M2,NEIG-17143,P0147,2,,Not recorded,Not recorded,Not recorded,Child
+NEIG-17123-M1,NEIG-17123,P0371,1,3.0,0-5,Female,Black or African American,Child
+NEIG-17114-M1,NEIG-17114,P0313,1,8.0,6-17,Female,Black or African American,Child
+NEIG-17114-M2,NEIG-17114,P0313,2,4.0,0-5,Male,Black or African American,Child
+NEIG-17106-M1,NEIG-17106,P0258,1,4.0,0-5,Female,Black or African American,Child
+NEIG-17106-M2,NEIG-17106,P0258,2,2.0,0-5,Male,Black or African American,Child
+NEIG-17092-M1,NEIG-17092,P0242,1,42.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-17092-M2,NEIG-17092,P0242,2,7.0,6-17,Not recorded,Hispanic or Latino,Not recorded
+NEIG-17092-M3,NEIG-17092,P0242,3,5.0,0-5,Not recorded,Hispanic or Latino,Child
+NEIG-17025-M1,NEIG-17025,P0096,1,10.0,6-17,Male,Not recorded,Child
+NEIG-17025-M2,NEIG-17025,P0096,2,3.0,0-5,Female,Not recorded,Child
+NEIG-17025-M3,NEIG-17025,P0096,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17021-M1,NEIG-17021,P0015,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17018-M1,NEIG-17018,P0195,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17018-M2,NEIG-17018,P0195,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17018-M3,NEIG-17018,P0195,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17018-M4,NEIG-17018,P0195,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-17011-M1,NEIG-17011,P0009,1,26.0,18-64,Male,Multiracial,Spouse/partner
+NEIG-17011-M2,NEIG-17011,P0009,2,4.0,0-5,Female,White,Child
+NEIG-17011-M3,NEIG-17011,P0009,3,0.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16993-M1,NEIG-16993,P0101,1,4.0,0-5,Male,Not recorded,Child
+NEIG-16958-M1,NEIG-16958,P0136,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16958-M2,NEIG-16958,P0136,2,,Not recorded,Female,Not recorded,Not recorded
+NEIG-16958-M3,NEIG-16958,P0136,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16958-M4,NEIG-16958,P0136,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16958-M5,NEIG-16958,P0136,5,,Not recorded,Not recorded,Not recorded,Child
+NEIG-16948-M1,NEIG-16948,P0388,1,32.0,18-64,Male,Not recorded,Spouse/partner
+NEIG-16948-M2,NEIG-16948,P0388,2,2.0,0-5,Female,Not recorded,Child
+NEIG-16948-M3,NEIG-16948,P0388,3,7.0,6-17,Male,Not recorded,Child
+NEIG-16936-M1,NEIG-16936,P0310,1,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16923-M1,NEIG-16923,P0121,1,13.0,6-17,Male,Not recorded,Not recorded
+NEIG-16919-M1,NEIG-16919,P0378,1,24.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-16919-M2,NEIG-16919,P0378,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16919-M3,NEIG-16919,P0378,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16909-M1,NEIG-16909,P0303,1,11.0,6-17,Not recorded,Not recorded,Child
+NEIG-16909-M2,NEIG-16909,P0303,2,8.0,6-17,Not recorded,Not recorded,Child
+NEIG-16909-M3,NEIG-16909,P0303,3,3.0,0-5,Not recorded,Not recorded,Child
+NEIG-16897-M1,NEIG-16897,P0172,1,7.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16886-M1,NEIG-16886,P0008,1,7.0,6-17,Male,Not recorded,Not recorded
+NEIG-16886-M2,NEIG-16886,P0008,2,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-16877-M1,NEIG-16877,P0170,1,33.0,18-64,Not recorded,Not recorded,Spouse/partner
+NEIG-16877-M2,NEIG-16877,P0170,2,16.0,6-17,Not recorded,Not recorded,Child
+NEIG-16877-M3,NEIG-16877,P0170,3,11.0,6-17,Not recorded,Not recorded,Child
+NEIG-16877-M4,NEIG-16877,P0170,4,8.0,6-17,Not recorded,Not recorded,Child
+NEIG-16877-M5,NEIG-16877,P0170,5,6.0,6-17,Not recorded,Not recorded,Child
+NEIG-16877-M6,NEIG-16877,P0170,6,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-16877-M7,NEIG-16877,P0170,7,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16877-M8,NEIG-16877,P0170,8,1.0,0-5,Not recorded,Not recorded,Child
+NEIG-16874-M1,NEIG-16874,P0026,1,1.0,0-5,Female,Black or African American,Child
+NEIG-16806-M1,NEIG-16806,P0273,1,26.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-16785-M1,NEIG-16785,P0080,1,22.0,18-64,Female,Black or African American,Child
+NEIG-16785-M2,NEIG-16785,P0080,2,17.0,6-17,Male,Black or African American,Child
+NEIG-16785-M3,NEIG-16785,P0080,3,2.0,0-5,Female,Black or African American,Grandchild
+NEIG-16772-M1,NEIG-16772,P0078,1,10.0,6-17,Male,Multiracial,Child
+NEIG-16772-M2,NEIG-16772,P0078,2,16.0,6-17,Male,Multiracial,Child
+NEIG-16772-M3,NEIG-16772,P0078,3,1.0,0-5,Male,Multiracial,Child
+NEIG-16759-M1,NEIG-16759,P0366,1,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16752-M1,NEIG-16752,P0250,1,11.0,6-17,Male,White,Child
+NEIG-16752-M2,NEIG-16752,P0250,2,5.0,0-5,Female,Multiracial,Child
+NEIG-16742-M1,NEIG-16742,P0025,1,24.0,18-64,Female,Multiracial,Friend/other
+NEIG-16738-M1,NEIG-16738,P0318,1,16.0,6-17,Female,Black or African American,Child
+NEIG-16738-M2,NEIG-16738,P0318,2,10.0,6-17,Male,Black or African American,Child
+NEIG-16738-M3,NEIG-16738,P0318,3,3.0,0-5,Male,Black or African American,Child
+NEIG-16733-M1,NEIG-16733,P0252,1,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16733-M2,NEIG-16733,P0252,2,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16733-M3,NEIG-16733,P0252,3,12.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16733-M4,NEIG-16733,P0252,4,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16733-M5,NEIG-16733,P0252,5,38.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-16681-M1,NEIG-16681,P0307,1,34.0,18-64,Female,Multiracial,Spouse/partner
+NEIG-16681-M2,NEIG-16681,P0307,2,10.0,6-17,Male,Multiracial,Child
+NEIG-16681-M3,NEIG-16681,P0307,3,8.0,6-17,Not recorded,Not recorded,Child
+NEIG-16681-M4,NEIG-16681,P0307,4,2.0,0-5,Not recorded,Multiracial,Child
+NEIG-16669-M1,NEIG-16669,P0048,1,23.0,18-64,Female,Not recorded,Not recorded
+NEIG-16669-M2,NEIG-16669,P0048,2,22.0,18-64,Male,Not recorded,Child
+NEIG-16669-M3,NEIG-16669,P0048,3,21.0,18-64,Male,Not recorded,Child
+NEIG-16648-M1,NEIG-16648,P0278,1,23.0,18-64,Female,White,Child
+NEIG-16648-M2,NEIG-16648,P0278,2,,Not recorded,Male,Not recorded,Grandchild
+NEIG-16648-M3,NEIG-16648,P0278,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16636-M1,NEIG-16636,P0044,1,18.0,18-64,Male,Black or African American,Child
+NEIG-16636-M2,NEIG-16636,P0044,2,16.0,6-17,Male,Black or African American,Child
+NEIG-16636-M3,NEIG-16636,P0044,3,14.0,6-17,Male,Black or African American,Child
+NEIG-16636-M4,NEIG-16636,P0044,4,9.0,6-17,Male,Black or African American,Child
+NEIG-16636-M5,NEIG-16636,P0044,5,2.0,0-5,Male,Black or African American,Child
+NEIG-16615-M1,NEIG-16615,P0306,1,5.0,0-5,Female,Multiracial,Child
+NEIG-16615-M2,NEIG-16615,P0306,2,3.0,0-5,Male,Multiracial,Child
+NEIG-16598-M1,NEIG-16598,P0233,1,1.0,0-5,Female,Multiracial,Child
+NEIG-16567-M1,NEIG-16567,P0145,1,18.0,18-64,Male,Black or African American,Child
+NEIG-16567-M2,NEIG-16567,P0145,2,11.0,6-17,Female,Black or African American,Child
+NEIG-16567-M3,NEIG-16567,P0145,3,7.0,6-17,Female,Black or African American,Child
+NEIG-16567-M4,NEIG-16567,P0145,4,4.0,0-5,Male,Black or African American,Child
+NEIG-16509-M1,NEIG-16509,P0169,1,3.0,0-5,Female,Black or African American,Child
+NEIG-16509-M2,NEIG-16509,P0169,2,7.0,6-17,Male,Black or African American,Child
+NEIG-16501-M1,NEIG-16501,P0348,1,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16466-M1,NEIG-16466,P0188,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16466-M2,NEIG-16466,P0188,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16466-M3,NEIG-16466,P0188,3,0.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16451-M1,NEIG-16451,P0062,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16394-M1,NEIG-16394,P0197,1,24.0,18-64,Female,Not recorded,Not recorded
+NEIG-16394-M2,NEIG-16394,P0197,2,4.0,0-5,Male,Black or African American,Child
+NEIG-16378-M1,NEIG-16378,P0341,1,8.0,6-17,Not recorded,Not recorded,Child
+NEIG-16378-M2,NEIG-16378,P0341,2,10.0,6-17,Not recorded,Not recorded,Child
+NEIG-16378-M3,NEIG-16378,P0341,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-16367-M1,NEIG-16367,P0004,1,33.0,18-64,Male,Native Hawaiian or Pacific Islander,Spouse/partner
+NEIG-16367-M2,NEIG-16367,P0004,2,9.0,6-17,Female,Not recorded,Child
+NEIG-16367-M3,NEIG-16367,P0004,3,10.0,6-17,Male,Not recorded,Child
+NEIG-16367-M4,NEIG-16367,P0004,4,3.0,0-5,Male,Not recorded,Child
+NEIG-16367-M5,NEIG-16367,P0004,5,0.0,0-5,Female,Not recorded,Child
+NEIG-16359-M1,NEIG-16359,P0395,1,2.0,0-5,Male,Black or African American,Child
+NEIG-16356-M1,NEIG-16356,P0089,1,33.0,18-64,Female,Not recorded,Not recorded
+NEIG-16356-M2,NEIG-16356,P0089,2,8.0,6-17,Male,Not recorded,Not recorded
+NEIG-16356-M3,NEIG-16356,P0089,3,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16342-M1,NEIG-16342,P0286,1,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16342-M2,NEIG-16342,P0286,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16335-M1,NEIG-16335,P0360,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16331-M1,NEIG-16331,P0091,1,15.0,6-17,Male,White,Not recorded
+NEIG-16331-M2,NEIG-16331,P0091,2,11.0,6-17,Female,White,Not recorded
+NEIG-16331-M3,NEIG-16331,P0091,3,8.0,6-17,Female,White,Not recorded
+NEIG-16319-M1,NEIG-16319,P0152,1,,Not recorded,Male,Not recorded,Not recorded
+NEIG-16305-M1,NEIG-16305,P0187,1,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16301-M1,NEIG-16301,P0217,1,23.0,18-64,Female,Not recorded,Not recorded
+NEIG-16301-M2,NEIG-16301,P0217,2,3.0,0-5,Male,Not recorded,Not recorded
+NEIG-16301-M3,NEIG-16301,P0217,3,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-16293-M1,NEIG-16293,P0113,1,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16293-M2,NEIG-16293,P0113,2,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16293-M3,NEIG-16293,P0113,3,11.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16293-M4,NEIG-16293,P0113,4,7.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16293-M5,NEIG-16293,P0113,5,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16248-M1,NEIG-16248,P0049,1,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-16234-M1,NEIG-16234,P0160,1,10.0,6-17,Male,Black or African American,Child
+NEIG-16234-M2,NEIG-16234,P0160,2,7.0,6-17,Male,Black or African American,Child
+NEIG-16234-M3,NEIG-16234,P0160,3,1.0,0-5,Female,Not recorded,Child
+NEIG-16230-M1,NEIG-16230,P0358,1,11.0,6-17,Male,Not recorded,Child
+NEIG-16230-M2,NEIG-16230,P0358,2,4.0,0-5,Female,Not recorded,Child
+NEIG-16215-M1,NEIG-16215,P0157,1,27.0,18-64,Male,White,Spouse/partner
+NEIG-16215-M2,NEIG-16215,P0157,2,1.0,0-5,Male,White,Child
+NEIG-16215-M3,NEIG-16215,P0157,3,0.0,0-5,Female,White,Child
+NEIG-16180-M1,NEIG-16180,P0036,1,8.0,6-17,Male,Multiracial,Child
+NEIG-16180-M2,NEIG-16180,P0036,2,3.0,0-5,Male,Multiracial,Child
+NEIG-16174-M1,NEIG-16174,P0276,1,10.0,6-17,Male,Not recorded,Child
+NEIG-16174-M2,NEIG-16174,P0276,2,6.0,6-17,Male,Not recorded,Not recorded
+NEIG-16174-M3,NEIG-16174,P0276,3,3.0,0-5,Male,Not recorded,Child
+NEIG-16171-M1,NEIG-16171,P0336,1,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16171-M2,NEIG-16171,P0336,2,7.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16171-M3,NEIG-16171,P0336,3,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16171-M4,NEIG-16171,P0336,4,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-16171-M5,NEIG-16171,P0336,5,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16171-M6,NEIG-16171,P0336,6,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16171-M7,NEIG-16171,P0336,7,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16164-M1,NEIG-16164,P0159,1,4.0,0-5,Male,Not recorded,Not recorded
+NEIG-16162-M1,NEIG-16162,P0006,1,2.0,0-5,Male,Black or African American,Child
+NEIG-16162-M2,NEIG-16162,P0006,2,1.0,0-5,Female,Black or African American,Child
+NEIG-16162-M3,NEIG-16162,P0006,3,0.0,0-5,Male,Black or African American,Child
+NEIG-16134-M1,NEIG-16134,P0290,1,32.0,18-64,Not recorded,Not recorded,Parent
+NEIG-16134-M2,NEIG-16134,P0290,2,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16129-M1,NEIG-16129,P0370,1,7.0,6-17,Male,Not recorded,Child
+NEIG-16109-M1,NEIG-16109,P0119,1,6.0,6-17,Male,Not recorded,Child
+NEIG-16109-M2,NEIG-16109,P0119,2,5.0,0-5,Female,Not recorded,Child
+NEIG-16098-M1,NEIG-16098,P0327,1,4.0,0-5,Male,Not recorded,Not recorded
+NEIG-16098-M2,NEIG-16098,P0327,2,6.0,6-17,Male,Not recorded,Not recorded
+NEIG-16098-M3,NEIG-16098,P0327,3,1.0,0-5,Male,Not recorded,Not recorded
+NEIG-16088-M1,NEIG-16088,P0346,1,8.0,6-17,Male,Multiracial,Child
+NEIG-16088-M2,NEIG-16088,P0346,2,4.0,0-5,Male,Multiracial,Child
+NEIG-16088-M3,NEIG-16088,P0346,3,2.0,0-5,Female,Multiracial,Child
+NEIG-16085-M1,NEIG-16085,P0300,1,10.0,6-17,Female,Not recorded,Child
+NEIG-16085-M2,NEIG-16085,P0300,2,7.0,6-17,Female,Not recorded,Child
+NEIG-16085-M3,NEIG-16085,P0300,3,5.0,0-5,Male,Not recorded,Child
+NEIG-16085-M4,NEIG-16085,P0300,4,0.0,0-5,Male,Not recorded,Child
+NEIG-16085-M5,NEIG-16085,P0300,5,36.0,18-64,Female,Not recorded,Parent
+NEIG-16058-M1,NEIG-16058,P0385,1,6.0,6-17,Male,Not recorded,Child
+NEIG-16058-M2,NEIG-16058,P0385,2,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16058-M3,NEIG-16058,P0385,3,0.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-16007-M1,NEIG-16007,P0180,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16007-M2,NEIG-16007,P0180,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16007-M3,NEIG-16007,P0180,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16007-M4,NEIG-16007,P0180,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-16007-M5,NEIG-16007,P0180,5,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15996-M1,NEIG-15996,P0051,1,19.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-15983-M1,NEIG-15983,P0138,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15983-M2,NEIG-15983,P0138,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15983-M3,NEIG-15983,P0138,3,,Not recorded,Female,Not recorded,Not recorded
+NEIG-15983-M4,NEIG-15983,P0138,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15983-M5,NEIG-15983,P0138,5,,Not recorded,Not recorded,Not recorded,Child
+NEIG-15969-M1,NEIG-15969,P0254,1,12.0,6-17,Female,Not recorded,Not recorded
+NEIG-15945-M1,NEIG-15945,P0206,1,17.0,6-17,Not recorded,White,Child
+NEIG-15945-M2,NEIG-15945,P0206,2,12.0,6-17,Not recorded,White,Child
+NEIG-15945-M3,NEIG-15945,P0206,3,6.0,6-17,Not recorded,White,Child
+NEIG-15945-M4,NEIG-15945,P0206,4,5.0,0-5,Not recorded,White,Child
+NEIG-15942-M1,NEIG-15942,P0323,1,42.0,18-64,Male,Not recorded,Spouse/partner
+NEIG-15942-M2,NEIG-15942,P0323,2,11.0,6-17,Male,Not recorded,Child
+NEIG-15942-M3,NEIG-15942,P0323,3,3.0,0-5,Male,Not recorded,Child
+NEIG-15931-M1,NEIG-15931,P0309,1,13.0,6-17,Female,Not recorded,Not recorded
+NEIG-15931-M2,NEIG-15931,P0309,2,5.0,0-5,Female,Not recorded,Not recorded
+NEIG-15931-M3,NEIG-15931,P0309,3,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-15923-M1,NEIG-15923,P0223,1,9.0,6-17,Male,Multiracial,Child
+NEIG-15923-M2,NEIG-15923,P0223,2,2.0,0-5,Male,Not recorded,Child
+NEIG-15892-M1,NEIG-15892,P0364,1,4.0,0-5,Male,Black or African American,Child
+NEIG-15860-M1,NEIG-15860,P0384,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15856-M1,NEIG-15856,P0168,1,27.0,18-64,Female,Black or African American,Not recorded
+NEIG-15856-M2,NEIG-15856,P0168,2,5.0,0-5,Female,Black or African American,Child
+NEIG-15827-M1,NEIG-15827,P0220,1,0.0,0-5,Male,Multiracial,Child
+NEIG-15773-M1,NEIG-15773,P0023,1,6.0,6-17,Male,White,Child
+NEIG-15773-M2,NEIG-15773,P0023,2,3.0,0-5,Female,White,Child
+NEIG-15773-M3,NEIG-15773,P0023,3,40.0,18-64,Male,Not recorded,Not recorded
+NEIG-15768-M1,NEIG-15768,P0134,1,17.0,6-17,Female,Black or African American,Child
+NEIG-15768-M2,NEIG-15768,P0134,2,13.0,6-17,Not recorded,Black or African American,Child
+NEIG-15768-M3,NEIG-15768,P0134,3,12.0,6-17,Not recorded,Not recorded,Child
+NEIG-15768-M4,NEIG-15768,P0134,4,10.0,6-17,Not recorded,Not recorded,Child
+NEIG-15768-M5,NEIG-15768,P0134,5,7.0,6-17,Not recorded,Not recorded,Child
+NEIG-15768-M6,NEIG-15768,P0134,6,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-15730-M1,NEIG-15730,P0126,1,0.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15718-M1,NEIG-15718,P0213,1,0.0,0-5,Female,Multiracial,Child
+NEIG-15682-M1,NEIG-15682,P0081,1,24.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-15682-M2,NEIG-15682,P0081,2,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15672-M1,NEIG-15672,P0363,1,5.0,0-5,Female,Black or African American,Child
+NEIG-15672-M2,NEIG-15672,P0363,2,1.0,0-5,Male,Black or African American,Child
+NEIG-15668-M1,NEIG-15668,P0112,1,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-15668-M2,NEIG-15668,P0112,2,3.0,0-5,Male,Not recorded,Child
+NEIG-15668-M3,NEIG-15668,P0112,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-15668-M4,NEIG-15668,P0112,4,0.0,0-5,Not recorded,Not recorded,Child
+NEIG-15668-M5,NEIG-15668,P0112,5,25.0,18-64,Not recorded,Not recorded,Spouse/partner
+NEIG-15604-M1,NEIG-15604,P0356,1,7.0,6-17,Female,Black or African American,Not recorded
+NEIG-15604-M2,NEIG-15604,P0356,2,2.0,0-5,Male,Black or African American,Not recorded
+NEIG-15595-M1,NEIG-15595,P0135,1,1.0,0-5,Male,Black or African American,Child
+NEIG-15595-M2,NEIG-15595,P0135,2,1.0,0-5,Male,Black or African American,Child
+NEIG-15561-M1,NEIG-15561,P0175,1,4.0,0-5,Male,Not recorded,Child
+NEIG-15532-M1,NEIG-15532,P0219,1,4.0,0-5,Not recorded,Multiracial,Child
+NEIG-15532-M2,NEIG-15532,P0219,2,1.0,0-5,Not recorded,Multiracial,Child
+NEIG-15483-M1,NEIG-15483,P0212,1,28.0,18-64,Female,Not recorded,Parent
+NEIG-15483-M2,NEIG-15483,P0212,2,0.0,0-5,Female,Multiracial,Parent
+NEIG-15478-M1,NEIG-15478,P0280,1,,Not recorded,Not recorded,Not recorded,Child
+NEIG-15478-M2,NEIG-15478,P0280,2,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15478-M3,NEIG-15478,P0280,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15478-M4,NEIG-15478,P0280,4,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15463-M1,NEIG-15463,P0122,1,22.0,18-64,Female,Not recorded,Not recorded
+NEIG-15370-M1,NEIG-15370,P0171,1,4.0,0-5,Male,Black or African American,Child
+NEIG-15370-M2,NEIG-15370,P0171,2,4.0,0-5,Male,Black or African American,Child
+NEIG-15344-M1,NEIG-15344,P0318,1,16.0,6-17,Female,Multiracial,Child
+NEIG-15344-M2,NEIG-15344,P0318,2,10.0,6-17,Male,Black or African American,Child
+NEIG-15344-M3,NEIG-15344,P0318,3,3.0,0-5,Male,Black or African American,Child
+NEIG-15230-M1,NEIG-15230,P0133,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15222-M1,NEIG-15222,P0143,1,11.0,6-17,Female,Black or African American,Not recorded
+NEIG-15222-M2,NEIG-15222,P0143,2,10.0,6-17,Male,Black or African American,Not recorded
+NEIG-15222-M3,NEIG-15222,P0143,3,6.0,6-17,Female,Black or African American,Not recorded
+NEIG-15222-M4,NEIG-15222,P0143,4,5.0,0-5,Female,Black or African American,Not recorded
+NEIG-15222-M5,NEIG-15222,P0143,5,3.0,0-5,Female,Black or African American,Not recorded
+NEIG-15222-M6,NEIG-15222,P0143,6,1.0,0-5,Male,Black or African American,Not recorded
+NEIG-15222-M7,NEIG-15222,P0143,7,0.0,0-5,Female,Black or African American,Not recorded
+NEIG-15215-M1,NEIG-15215,P0272,1,5.0,0-5,Male,Not recorded,Child
+NEIG-15215-M2,NEIG-15215,P0272,2,2.0,0-5,Female,Not recorded,Child
+NEIG-15206-M1,NEIG-15206,P0076,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15206-M2,NEIG-15206,P0076,2,14.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-15206-M3,NEIG-15206,P0076,3,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-15206-M4,NEIG-15206,P0076,4,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15144-M1,NEIG-15144,P0047,1,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-15089-M1,NEIG-15089,P0167,1,14.0,6-17,Male,Not recorded,Child
+NEIG-15089-M2,NEIG-15089,P0167,2,12.0,6-17,Female,Not recorded,Child
+NEIG-15089-M3,NEIG-15089,P0167,3,3.0,0-5,Male,Not recorded,Child
+NEIG-15089-M4,NEIG-15089,P0167,4,2.0,0-5,Female,Not recorded,Child
+NEIG-15064-M1,NEIG-15064,P0081,1,4.0,0-5,Male,Black or African American,Child
+NEIG-15057-M1,NEIG-15057,P0249,1,35.0,18-64,Male,Not recorded,Parent
+NEIG-15057-M2,NEIG-15057,P0249,2,13.0,6-17,Female,White,Child
+NEIG-15057-M3,NEIG-15057,P0249,3,10.0,6-17,Female,Multiracial,Child
+NEIG-15057-M4,NEIG-15057,P0249,4,6.0,6-17,Male,Multiracial,Child
+NEIG-15051-M1,NEIG-15051,P0196,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-15028-M1,NEIG-15028,P0236,1,14.0,6-17,Female,Not recorded,Child
+NEIG-15028-M2,NEIG-15028,P0236,2,9.0,6-17,Male,Not recorded,Child
+NEIG-15028-M3,NEIG-15028,P0236,3,6.0,6-17,Male,Not recorded,Child
+NEIG-15028-M4,NEIG-15028,P0236,4,4.0,0-5,Male,Not recorded,Child
+NEIG-15028-M5,NEIG-15028,P0236,5,1.0,0-5,Female,Not recorded,Child
+NEIG-15028-M6,NEIG-15028,P0236,6,0.0,0-5,Female,Not recorded,Child
+NEIG-14995-M1,NEIG-14995,P0357,1,,Not recorded,Not recorded,Not recorded,Parent
+NEIG-14896-M1,NEIG-14896,P0052,1,13.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-14896-M2,NEIG-14896,P0052,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14864-M1,NEIG-14864,P0087,1,9.0,6-17,Female,Not recorded,Child
+NEIG-14864-M2,NEIG-14864,P0087,2,8.0,6-17,Male,Not recorded,Child
+NEIG-14864-M3,NEIG-14864,P0087,3,6.0,6-17,Female,Not recorded,Child
+NEIG-14864-M4,NEIG-14864,P0087,4,3.0,0-5,Male,Not recorded,Child
+NEIG-14859-M1,NEIG-14859,P0381,1,22.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14853-M1,NEIG-14853,P0295,1,2.0,0-5,Male,Not recorded,Child
+NEIG-14838-M1,NEIG-14838,P0332,1,19.0,18-64,Female,Multiracial,Child
+NEIG-14838-M2,NEIG-14838,P0332,2,13.0,6-17,Male,White,Child
+NEIG-14838-M3,NEIG-14838,P0332,3,10.0,6-17,Female,Not recorded,Child
+NEIG-14838-M4,NEIG-14838,P0332,4,10.0,6-17,Male,Not recorded,Child
+NEIG-14838-M5,NEIG-14838,P0332,5,3.0,0-5,Female,White,Child
+NEIG-14838-M6,NEIG-14838,P0332,6,1.0,0-5,Male,White,Child
+NEIG-14838-M7,NEIG-14838,P0332,7,45.0,18-64,Male,Not recorded,Not recorded
+NEIG-14793-M1,NEIG-14793,P0302,1,15.0,6-17,Female,Black or African American,Child
+NEIG-14793-M2,NEIG-14793,P0302,2,13.0,6-17,Male,Not recorded,Not recorded
+NEIG-14793-M3,NEIG-14793,P0302,3,12.0,6-17,Male,Not recorded,Not recorded
+NEIG-14793-M4,NEIG-14793,P0302,4,0.0,0-5,Male,Black or African American,Child
+NEIG-14785-M1,NEIG-14785,P0103,1,13.0,6-17,Male,Not recorded,Not recorded
+NEIG-14785-M2,NEIG-14785,P0103,2,10.0,6-17,Male,Not recorded,Not recorded
+NEIG-14785-M3,NEIG-14785,P0103,3,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-14724-M1,NEIG-14724,P0260,1,44.0,18-64,Male,Not recorded,Not recorded
+NEIG-14724-M2,NEIG-14724,P0260,2,2.0,0-5,Female,Not recorded,Not recorded
+NEIG-14708-M1,NEIG-14708,P0379,1,12.0,6-17,Male,Black or African American,Child
+NEIG-14708-M2,NEIG-14708,P0379,2,5.0,0-5,Female,Black or African American,Child
+NEIG-14696-M1,NEIG-14696,P0282,1,1.0,0-5,Male,Not recorded,Child
+NEIG-14690-M1,NEIG-14690,P0129,1,36.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-14690-M2,NEIG-14690,P0129,2,7.0,6-17,Male,Black or African American,Child
+NEIG-14690-M3,NEIG-14690,P0129,3,4.0,0-5,Male,Black or African American,Child
+NEIG-14681-M1,NEIG-14681,P0234,1,27.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14681-M2,NEIG-14681,P0234,2,27.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14681-M3,NEIG-14681,P0234,3,25.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14662-M1,NEIG-14662,P0101,1,,Not recorded,Male,Not recorded,Not recorded
+NEIG-14657-M1,NEIG-14657,P0271,1,9.0,6-17,Female,Not recorded,Child
+NEIG-14657-M2,NEIG-14657,P0271,2,0.0,0-5,Female,Not recorded,Child
+NEIG-14650-M1,NEIG-14650,P0041,1,12.0,6-17,Male,Not recorded,Child
+NEIG-14650-M2,NEIG-14650,P0041,2,8.0,6-17,Female,Not recorded,Child
+NEIG-14650-M3,NEIG-14650,P0041,3,,Not recorded,Female,Not recorded,Child
+NEIG-14640-M1,NEIG-14640,P0190,1,14.0,6-17,Female,Black or African American,Child
+NEIG-14640-M2,NEIG-14640,P0190,2,7.0,6-17,Female,Black or African American,Child
+NEIG-14640-M3,NEIG-14640,P0190,3,5.0,0-5,Male,Black or African American,Child
+NEIG-14640-M4,NEIG-14640,P0190,4,4.0,0-5,Female,Black or African American,Child
+NEIG-14633-M1,NEIG-14633,P0171,1,4.0,0-5,Male,Black or African American,Child
+NEIG-14633-M2,NEIG-14633,P0171,2,4.0,0-5,Male,Black or African American,Child
+NEIG-14623-M1,NEIG-14623,P0317,1,31.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14623-M2,NEIG-14623,P0317,2,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14623-M3,NEIG-14623,P0317,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14623-M4,NEIG-14623,P0317,4,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14613-M1,NEIG-14613,P0209,1,0.0,0-5,Female,Black or African American,Child
+NEIG-14613-M2,NEIG-14613,P0209,2,0.0,0-5,Female,Black or African American,Child
+NEIG-14608-M1,NEIG-14608,P0270,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14601-M1,NEIG-14601,P0373,1,6.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-14601-M2,NEIG-14601,P0373,2,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-14588-M1,NEIG-14588,P0372,1,6.0,6-17,Male,Black or African American,Child
+NEIG-14588-M2,NEIG-14588,P0372,2,4.0,0-5,Male,Black or African American,Child
+NEIG-14561-M1,NEIG-14561,P0160,1,10.0,6-17,Male,Black or African American,Child
+NEIG-14561-M2,NEIG-14561,P0160,2,7.0,6-17,Male,Black or African American,Child
+NEIG-14561-M3,NEIG-14561,P0160,3,1.0,0-5,Female,Black or African American,Child
+NEIG-14552-M1,NEIG-14552,P0024,1,1.0,0-5,Female,Multiracial,Child
+NEIG-14552-M2,NEIG-14552,P0024,2,0.0,0-5,Male,Black or African American,Child
+NEIG-14523-M1,NEIG-14523,P0321,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-14519-M1,NEIG-14519,P0014,1,5.0,0-5,Male,Not recorded,Not recorded
+NEIG-14519-M2,NEIG-14519,P0014,2,4.0,0-5,Male,Not recorded,Not recorded
+NEIG-14519-M3,NEIG-14519,P0014,3,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-14501-M1,NEIG-14501,P0046,1,24.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-14501-M2,NEIG-14501,P0046,2,47.0,18-64,Male,Not recorded,Not recorded
+NEIG-14436-M1,NEIG-14436,P0256,1,14.0,6-17,Female,Black or African American,Child
+NEIG-14436-M2,NEIG-14436,P0256,2,13.0,6-17,Male,Black or African American,Child
+NEIG-14436-M3,NEIG-14436,P0256,3,4.0,0-5,Male,Black or African American,Child
+NEIG-14436-M4,NEIG-14436,P0256,4,1.0,0-5,Female,Black or African American,Child
+NEIG-14411-M1,NEIG-14411,P0068,1,10.0,6-17,Not recorded,Not recorded,Child
+NEIG-14411-M2,NEIG-14411,P0068,2,7.0,6-17,Not recorded,Not recorded,Child
+NEIG-14411-M3,NEIG-14411,P0068,3,4.0,0-5,Not recorded,Not recorded,Child
+NEIG-14411-M4,NEIG-14411,P0068,4,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-14354-M1,NEIG-14354,P0124,1,3.0,0-5,Male,Black or African American,Child
+NEIG-14354-M2,NEIG-14354,P0124,2,2.0,0-5,Male,Black or African American,Child
+NEIG-14345-M1,NEIG-14345,P0235,1,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-14341-M1,NEIG-14341,P0393,1,24.0,18-64,Female,Not recorded,Not recorded
+NEIG-14341-M2,NEIG-14341,P0393,2,4.0,0-5,Male,Not recorded,Not recorded
+NEIG-14341-M3,NEIG-14341,P0393,3,0.0,0-5,Male,Not recorded,Child
+NEIG-14289-M1,NEIG-14289,P0199,1,15.0,6-17,Female,Not recorded,Child
+NEIG-14281-M1,NEIG-14281,P0343,1,9.0,6-17,Not recorded,Not recorded,Child
+NEIG-14281-M2,NEIG-14281,P0343,2,10.0,6-17,Not recorded,Not recorded,Child
+NEIG-14281-M3,NEIG-14281,P0343,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-14235-M1,NEIG-14235,P0064,1,10.0,6-17,Male,Not recorded,Child
+NEIG-14189-M1,NEIG-14189,P0043,1,0.0,0-5,Male,Hispanic or Latino,Child
+NEIG-14175-M1,NEIG-14175,P0255,1,12.0,6-17,Female,Not recorded,Child
+NEIG-14170-M1,NEIG-14170,P0299,1,4.0,0-5,Male,Multiracial,Child
+NEIG-14143-M1,NEIG-14143,P0367,1,18.0,18-64,Female,Not recorded,Child
+NEIG-14143-M2,NEIG-14143,P0367,2,17.0,6-17,Female,Not recorded,Child
+NEIG-14143-M3,NEIG-14143,P0367,3,10.0,6-17,Female,Not recorded,Child
+NEIG-14143-M4,NEIG-14143,P0367,4,4.0,0-5,Female,Not recorded,Child
+NEIG-14116-M1,NEIG-14116,P0011,1,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-14086-M1,NEIG-14086,P0086,1,15.0,6-17,Male,Black or African American,Child
+NEIG-14086-M2,NEIG-14086,P0086,2,8.0,6-17,Male,Black or African American,Child
+NEIG-14086-M3,NEIG-14086,P0086,3,3.0,0-5,Male,Black or African American,Child
+NEIG-14074-M1,NEIG-14074,P0342,1,5.0,0-5,Male,Black or African American,Child
+NEIG-14074-M2,NEIG-14074,P0342,2,1.0,0-5,Male,Black or African American,Child
+NEIG-14065-M1,NEIG-14065,P0117,1,5.0,0-5,Female,Black or African American,Child
+NEIG-14051-M1,NEIG-14051,P0107,1,6.0,6-17,Male,Black or African American,Child
+NEIG-14051-M2,NEIG-14051,P0107,2,1.0,0-5,Female,Black or African American,Child
+NEIG-14006-M1,NEIG-14006,P0335,1,12.0,6-17,Female,Black or African American,Child
+NEIG-14006-M2,NEIG-14006,P0335,2,7.0,6-17,Male,Black or African American,Child
+NEIG-14006-M3,NEIG-14006,P0335,3,6.0,6-17,Male,Black or African American,Child
+NEIG-14006-M4,NEIG-14006,P0335,4,2.0,0-5,Male,Black or African American,Child
+NEIG-14006-M5,NEIG-14006,P0335,5,1.0,0-5,Male,Black or African American,Child
+NEIG-13962-M1,NEIG-13962,P0333,1,44.0,18-64,Male,White,Spouse/partner
+NEIG-13962-M2,NEIG-13962,P0333,2,4.0,0-5,Male,White,Child
+NEIG-13962-M3,NEIG-13962,P0333,3,8.0,6-17,Male,White,Child
+NEIG-13962-M4,NEIG-13962,P0333,4,3.0,0-5,Female,White,Child
+NEIG-13926-M1,NEIG-13926,P0071,1,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13926-M2,NEIG-13926,P0071,2,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13926-M3,NEIG-13926,P0071,3,8.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13926-M4,NEIG-13926,P0071,4,31.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-13911-M1,NEIG-13911,P0394,1,18.0,18-64,Not recorded,Black or African American,Child
+NEIG-13911-M2,NEIG-13911,P0394,2,15.0,6-17,Not recorded,Black or African American,Child
+NEIG-13911-M3,NEIG-13911,P0394,3,15.0,6-17,Not recorded,Black or African American,Child
+NEIG-13911-M4,NEIG-13911,P0394,4,11.0,6-17,Not recorded,Black or African American,Child
+NEIG-13911-M5,NEIG-13911,P0394,5,6.0,6-17,Not recorded,Black or African American,Child
+NEIG-13898-M1,NEIG-13898,P0391,1,5.0,0-5,Female,Not recorded,Not recorded
+NEIG-13898-M2,NEIG-13898,P0391,2,3.0,0-5,Female,Not recorded,Not recorded
+NEIG-13898-M3,NEIG-13898,P0391,3,1.0,0-5,Male,Not recorded,Not recorded
+NEIG-13883-M1,NEIG-13883,P0002,1,14.0,6-17,Not recorded,Not recorded,Child
+NEIG-13883-M2,NEIG-13883,P0002,2,3.0,0-5,Not recorded,Not recorded,Child
+NEIG-13883-M3,NEIG-13883,P0002,3,1.0,0-5,Not recorded,Not recorded,Child
+NEIG-13854-M1,NEIG-13854,P0012,1,6.0,6-17,Female,Not recorded,Not recorded
+NEIG-13854-M2,NEIG-13854,P0012,2,3.0,0-5,Female,Not recorded,Not recorded
+NEIG-13854-M3,NEIG-13854,P0012,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-13835-M1,NEIG-13835,P0222,1,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13835-M2,NEIG-13835,P0222,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13826-M1,NEIG-13826,P0314,1,,Not recorded,Male,Not recorded,Not recorded
+NEIG-13826-M2,NEIG-13826,P0314,2,49.0,18-64,Female,Not recorded,Not recorded
+NEIG-13826-M3,NEIG-13826,P0314,3,49.0,18-64,Male,Not recorded,Not recorded
+NEIG-13826-M4,NEIG-13826,P0314,4,,Not recorded,Male,Not recorded,Not recorded
+NEIG-13824-M1,NEIG-13824,P0101,1,4.0,0-5,Male,Not recorded,Child
+NEIG-13817-M1,NEIG-13817,P0165,1,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13811-M1,NEIG-13811,P0173,1,12.0,6-17,Male,Not recorded,Not recorded
+NEIG-13811-M2,NEIG-13811,P0173,2,10.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13811-M3,NEIG-13811,P0173,3,18.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-13811-M4,NEIG-13811,P0173,4,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13783-M1,NEIG-13783,P0267,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13773-M1,NEIG-13773,P0241,1,35.0,18-64,Male,Not recorded,Spouse/partner
+NEIG-13773-M2,NEIG-13773,P0241,2,12.0,6-17,Male,Not recorded,Child
+NEIG-13773-M3,NEIG-13773,P0241,3,3.0,0-5,Female,Not recorded,Child
+NEIG-13765-M1,NEIG-13765,P0325,1,22.0,18-64,Male,Not recorded,Child
+NEIG-13765-M2,NEIG-13765,P0325,2,18.0,18-64,Female,Not recorded,Child
+NEIG-13765-M3,NEIG-13765,P0325,3,14.0,6-17,Male,Not recorded,Child
+NEIG-13765-M4,NEIG-13765,P0325,4,3.0,0-5,Male,Not recorded,Grandchild
+NEIG-13734-M1,NEIG-13734,P0021,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13734-M2,NEIG-13734,P0021,2,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13734-M3,NEIG-13734,P0021,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13703-M1,NEIG-13703,P0350,1,26.0,18-64,Male,Not recorded,Spouse/partner
+NEIG-13703-M2,NEIG-13703,P0350,2,4.0,0-5,Female,Native Hawaiian or Pacific Islander,Child
+NEIG-13703-M3,NEIG-13703,P0350,3,2.0,0-5,Male,Native Hawaiian or Pacific Islander,Child
+NEIG-13703-M4,NEIG-13703,P0350,4,0.0,0-5,Male,Native Hawaiian or Pacific Islander,Child
+NEIG-13691-M1,NEIG-13691,P0162,1,26.0,18-64,Female,Multiracial,Spouse/partner
+NEIG-13691-M2,NEIG-13691,P0162,2,1.0,0-5,Female,Black or African American,Child
+NEIG-13687-M1,NEIG-13687,P0359,1,8.0,6-17,Not recorded,Not recorded,Child
+NEIG-13687-M2,NEIG-13687,P0359,2,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-13674-M1,NEIG-13674,P0205,1,3.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13668-M1,NEIG-13668,P0007,1,23.0,18-64,Male,Not recorded,Not recorded
+NEIG-13668-M2,NEIG-13668,P0007,2,1.0,0-5,Male,Multiracial,Child
+NEIG-13668-M3,NEIG-13668,P0007,3,1.0,0-5,Male,Multiracial,Child
+NEIG-13654-M1,NEIG-13654,P0040,1,6.0,6-17,Female,Not recorded,Child
+NEIG-13654-M2,NEIG-13654,P0040,2,5.0,0-5,Male,Not recorded,Child
+NEIG-13654-M3,NEIG-13654,P0040,3,2.0,0-5,Male,Not recorded,Child
+NEIG-13635-M1,NEIG-13635,P0259,1,4.0,0-5,Female,Black or African American,Child
+NEIG-13635-M2,NEIG-13635,P0259,2,2.0,0-5,Male,Black or African American,Child
+NEIG-13629-M1,NEIG-13629,P0266,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13612-M1,NEIG-13612,P0341,1,10.0,6-17,Male,Not recorded,Child
+NEIG-13612-M2,NEIG-13612,P0341,2,8.0,6-17,Female,Not recorded,Child
+NEIG-13612-M3,NEIG-13612,P0341,3,2.0,0-5,Female,Not recorded,Child
+NEIG-13606-M1,NEIG-13606,P0305,1,34.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-13606-M2,NEIG-13606,P0305,2,1.0,0-5,Male,Black or African American,Child
+NEIG-13565-M1,NEIG-13565,P0153,1,5.0,0-5,Not recorded,Multiracial,Child
+NEIG-13565-M2,NEIG-13565,P0153,2,0.0,0-5,Not recorded,Multiracial,Child
+NEIG-13545-M1,NEIG-13545,P0340,1,12.0,6-17,Not recorded,Not recorded,Child
+NEIG-13545-M2,NEIG-13545,P0340,2,9.0,6-17,Not recorded,Not recorded,Child
+NEIG-13545-M3,NEIG-13545,P0340,3,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-13545-M4,NEIG-13545,P0340,4,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-13492-M1,NEIG-13492,P0292,1,5.0,0-5,Female,Not recorded,Child
+NEIG-13484-M1,NEIG-13484,P0323,1,42.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-13406-M1,NEIG-13406,P0120,1,44.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-13406-M2,NEIG-13406,P0120,2,18.0,18-64,Female,Not recorded,Not recorded
+NEIG-13406-M3,NEIG-13406,P0120,3,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-13372-M1,NEIG-13372,P0229,1,26.0,18-64,Male,Not recorded,Spouse/partner
+NEIG-13372-M2,NEIG-13372,P0229,2,9.0,6-17,Male,Not recorded,Child
+NEIG-13372-M3,NEIG-13372,P0229,3,6.0,6-17,Female,Not recorded,Child
+NEIG-13367-M1,NEIG-13367,P0093,1,23.0,18-64,Not recorded,Not recorded,Child
+NEIG-13367-M2,NEIG-13367,P0093,2,17.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13367-M3,NEIG-13367,P0093,3,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13305-M1,NEIG-13305,P0296,1,5.0,0-5,Male,Black or African American,Child
+NEIG-13305-M2,NEIG-13305,P0296,2,3.0,0-5,Male,Black or African American,Child
+NEIG-13305-M3,NEIG-13305,P0296,3,1.0,0-5,Female,Black or African American,Child
+NEIG-13289-M1,NEIG-13289,P0083,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13273-M1,NEIG-13273,P0058,1,12.0,6-17,Male,Not recorded,Child
+NEIG-13266-M1,NEIG-13266,P0094,1,4.0,0-5,Male,Multiracial,Child
+NEIG-13266-M2,NEIG-13266,P0094,2,3.0,0-5,Female,Multiracial,Child
+NEIG-13266-M3,NEIG-13266,P0094,3,1.0,0-5,Male,Multiracial,Child
+NEIG-13266-M4,NEIG-13266,P0094,4,22.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-13255-M1,NEIG-13255,P0257,1,12.0,6-17,Female,Black or African American,Child
+NEIG-13255-M2,NEIG-13255,P0257,2,0.0,0-5,Female,Black or African American,Child
+NEIG-13242-M1,NEIG-13242,P0039,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13242-M2,NEIG-13242,P0039,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13242-M3,NEIG-13242,P0039,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13236-M1,NEIG-13236,P0214,1,,Not recorded,Male,Black or African American,Child
+NEIG-13220-M1,NEIG-13220,P0123,1,14.0,6-17,Male,Not recorded,Child
+NEIG-13213-M1,NEIG-13213,P0055,1,59.0,18-64,Male,Not recorded,Not recorded
+NEIG-13201-M1,NEIG-13201,P0098,1,18.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-13197-M1,NEIG-13197,P0221,1,4.0,0-5,Female,Not recorded,Not recorded
+NEIG-13197-M2,NEIG-13197,P0221,2,,Not recorded,Not recorded,Not recorded,Child
+NEIG-13197-M3,NEIG-13197,P0221,3,,Not recorded,Male,Not recorded,Child
+NEIG-13190-M1,NEIG-13190,P0200,1,18.0,18-64,Male,Not recorded,Child
+NEIG-13190-M2,NEIG-13190,P0200,2,17.0,6-17,Female,Not recorded,Child
+NEIG-13190-M3,NEIG-13190,P0200,3,9.0,6-17,Male,Not recorded,Child
+NEIG-13190-M4,NEIG-13190,P0200,4,7.0,6-17,Male,Not recorded,Child
+NEIG-13190-M5,NEIG-13190,P0200,5,1.0,0-5,Female,Not recorded,Child
+NEIG-13147-M1,NEIG-13147,P0185,1,19.0,18-64,Female,Not recorded,Child
+NEIG-13147-M2,NEIG-13147,P0185,2,17.0,6-17,Female,Not recorded,Child
+NEIG-13147-M3,NEIG-13147,P0185,3,10.0,6-17,Male,Not recorded,Child
+NEIG-13147-M4,NEIG-13147,P0185,4,10.0,6-17,Female,Not recorded,Child
+NEIG-13147-M5,NEIG-13147,P0185,5,7.0,6-17,Female,Not recorded,Child
+NEIG-13147-M6,NEIG-13147,P0185,6,5.0,0-5,Male,Not recorded,Child
+NEIG-13147-M7,NEIG-13147,P0185,7,1.0,0-5,Male,Not recorded,Grandchild
+NEIG-13147-M8,NEIG-13147,P0185,8,,Not recorded,Male,Not recorded,Grandchild
+NEIG-13125-M1,NEIG-13125,P0312,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13104-M1,NEIG-13104,P0065,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-13094-M1,NEIG-13094,P0349,1,13.0,6-17,Female,Black or African American,Child
+NEIG-13094-M2,NEIG-13094,P0349,2,6.0,6-17,Male,Black or African American,Child
+NEIG-13094-M3,NEIG-13094,P0349,3,1.0,0-5,Female,Black or African American,Child
+NEIG-13041-M1,NEIG-13041,P0100,1,17.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-13028-M1,NEIG-13028,P0156,1,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-13025-M1,NEIG-13025,P0288,1,36.0,18-64,Female,Not recorded,Not recorded
+NEIG-13025-M2,NEIG-13025,P0288,2,18.0,18-64,Female,Not recorded,Child
+NEIG-13025-M3,NEIG-13025,P0288,3,16.0,6-17,Male,Not recorded,Not recorded
+NEIG-13025-M4,NEIG-13025,P0288,4,17.0,6-17,Female,Not recorded,Not recorded
+NEIG-13025-M5,NEIG-13025,P0288,5,12.0,6-17,Male,Not recorded,Not recorded
+NEIG-13025-M6,NEIG-13025,P0288,6,11.0,6-17,Male,Not recorded,Not recorded
+NEIG-13025-M7,NEIG-13025,P0288,7,7.0,6-17,Male,Not recorded,Not recorded
+NEIG-13025-M8,NEIG-13025,P0288,8,1.0,0-5,Male,Not recorded,Not recorded
+NEIG-12961-M1,NEIG-12961,P0248,1,2.0,0-5,Female,Multiracial,Child
+NEIG-12928-M1,NEIG-12928,P0027,1,41.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-12928-M2,NEIG-12928,P0027,2,4.0,0-5,Not recorded,Not recorded,Child
+NEIG-12893-M1,NEIG-12893,P0166,1,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12893-M2,NEIG-12893,P0166,2,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12830-M1,NEIG-12830,P0179,1,14.0,6-17,Male,Black or African American,Child
+NEIG-12830-M2,NEIG-12830,P0179,2,8.0,6-17,Female,Black or African American,Child
+NEIG-12830-M3,NEIG-12830,P0179,3,5.0,0-5,Female,Black or African American,Child
+NEIG-12729-M1,NEIG-12729,P0317,1,31.0,18-64,Female,Not recorded,Not recorded
+NEIG-12729-M2,NEIG-12729,P0317,2,2.0,0-5,Male,Not recorded,Not recorded
+NEIG-12729-M3,NEIG-12729,P0317,3,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-12729-M4,NEIG-12729,P0317,4,1.0,0-5,Male,Not recorded,Child
+NEIG-12717-M1,NEIG-12717,P0304,1,8.0,6-17,Male,Not recorded,Child
+NEIG-12698-M1,NEIG-12698,P0115,1,,Not recorded,Female,Not recorded,Not recorded
+NEIG-12683-M1,NEIG-12683,P0101,1,,Not recorded,Male,Not recorded,Child
+NEIG-12661-M1,NEIG-12661,P0144,1,,Not recorded,Not recorded,Not recorded,Child
+NEIG-12654-M1,NEIG-12654,P0231,1,2.0,0-5,Female,Multiracial,Child
+NEIG-12593-M1,NEIG-12593,P0108,1,7.0,6-17,Female,Black or African American,Child
+NEIG-12593-M2,NEIG-12593,P0108,2,7.0,6-17,Female,Black or African American,Child
+NEIG-12593-M3,NEIG-12593,P0108,3,1.0,0-5,Male,Black or African American,Child
+NEIG-12589-M1,NEIG-12589,P0111,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12577-M1,NEIG-12577,P0021,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12577-M2,NEIG-12577,P0021,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12577-M3,NEIG-12577,P0021,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12572-M1,NEIG-12572,P0161,1,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-12539-M1,NEIG-12539,P0251,1,9.0,6-17,Male,Not recorded,Child
+NEIG-12539-M2,NEIG-12539,P0251,2,,Not recorded,Male,Not recorded,Child
+NEIG-12523-M1,NEIG-12523,P0245,1,3.0,0-5,Female,Not recorded,Child
+NEIG-12523-M2,NEIG-12523,P0245,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12485-M1,NEIG-12485,P0131,1,1.0,0-5,Female,Not recorded,Child
+NEIG-12469-M1,NEIG-12469,P0118,1,5.0,0-5,Female,Black or African American,Child
+NEIG-12408-M1,NEIG-12408,P0090,1,35.0,18-64,Male,Not recorded,Parent
+NEIG-12408-M2,NEIG-12408,P0090,2,1.0,0-5,Female,Not recorded,Child
+NEIG-12408-M3,NEIG-12408,P0090,3,7.0,6-17,Female,Not recorded,Child
+NEIG-12408-M4,NEIG-12408,P0090,4,5.0,0-5,Female,Not recorded,Child
+NEIG-12402-M1,NEIG-12402,P0029,1,46.0,18-64,Female,Not recorded,Not recorded
+NEIG-12402-M2,NEIG-12402,P0029,2,19.0,18-64,Male,Black or African American,Child
+NEIG-12402-M3,NEIG-12402,P0029,3,17.0,6-17,Male,Black or African American,Child
+NEIG-12402-M4,NEIG-12402,P0029,4,13.0,6-17,Female,Not recorded,Child
+NEIG-12402-M5,NEIG-12402,P0029,5,11.0,6-17,Male,Black or African American,Child
+NEIG-12402-M6,NEIG-12402,P0029,6,9.0,6-17,Male,Black or African American,Child
+NEIG-12402-M7,NEIG-12402,P0029,7,7.0,6-17,Male,Black or African American,Child
+NEIG-12402-M8,NEIG-12402,P0029,8,5.0,0-5,Male,Black or African American,Child
+NEIG-12390-M1,NEIG-12390,P0016,1,3.0,0-5,Male,Not recorded,Child
+NEIG-12381-M1,NEIG-12381,P0077,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12381-M2,NEIG-12381,P0077,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12378-M1,NEIG-12378,P0105,1,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12370-M1,NEIG-12370,P0061,1,1.0,0-5,Male,Not recorded,Child
+NEIG-12366-M1,NEIG-12366,P0268,1,2.0,0-5,Male,Multiracial,Child
+NEIG-12351-M1,NEIG-12351,P0269,1,0.0,0-5,Female,Not recorded,Child
+NEIG-12351-M2,NEIG-12351,P0269,2,2.0,0-5,Male,Not recorded,Child
+NEIG-12346-M1,NEIG-12346,P0240,1,35.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-12346-M2,NEIG-12346,P0240,2,12.0,6-17,Male,Black or African American,Child
+NEIG-12346-M3,NEIG-12346,P0240,3,3.0,0-5,Female,Black or African American,Child
+NEIG-12323-M1,NEIG-12323,P0275,1,12.0,6-17,Male,Hispanic or Latino,Child
+NEIG-12323-M2,NEIG-12323,P0275,2,5.0,0-5,Female,Hispanic or Latino,Child
+NEIG-12323-M3,NEIG-12323,P0275,3,11.0,6-17,Female,Hispanic or Latino,Child
+NEIG-12319-M1,NEIG-12319,P0311,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12319-M2,NEIG-12319,P0311,2,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12316-M1,NEIG-12316,P0211,1,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-12307-M1,NEIG-12307,P0151,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12307-M2,NEIG-12307,P0151,2,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12307-M3,NEIG-12307,P0151,3,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12264-M1,NEIG-12264,P0030,1,33.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-12259-M1,NEIG-12259,P0042,1,3.0,0-5,Not recorded,Not recorded,Child
+NEIG-12252-M1,NEIG-12252,P0324,1,42.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-12231-M1,NEIG-12231,P0155,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12231-M2,NEIG-12231,P0155,2,,Not recorded,Not recorded,Not recorded,Child
+NEIG-12231-M3,NEIG-12231,P0155,3,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12213-M1,NEIG-12213,P0207,1,12.0,6-17,Not recorded,Not recorded,Other relative
+NEIG-12165-M1,NEIG-12165,P0056,1,4.0,0-5,Female,Not recorded,Not recorded
+NEIG-12165-M2,NEIG-12165,P0056,2,3.0,0-5,Female,Not recorded,Not recorded
+NEIG-12165-M3,NEIG-12165,P0056,3,,Not recorded,Male,Not recorded,Not recorded
+NEIG-12163-M1,NEIG-12163,P0053,1,23.0,18-64,Female,Not recorded,Not recorded
+NEIG-12163-M2,NEIG-12163,P0053,2,3.0,0-5,Female,Not recorded,Not recorded
+NEIG-12127-M1,NEIG-12127,P0169,1,7.0,6-17,Male,Black or African American,Child
+NEIG-12127-M2,NEIG-12127,P0169,2,3.0,0-5,Female,Black or African American,Child
+NEIG-12113-M1,NEIG-12113,P0383,1,10.0,6-17,Not recorded,Not recorded,Child
+NEIG-12113-M2,NEIG-12113,P0383,2,7.0,6-17,Not recorded,Not recorded,Child
+NEIG-12113-M3,NEIG-12113,P0383,3,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-12100-M1,NEIG-12100,P0361,1,6.0,6-17,Male,Multiracial,Child
+NEIG-12100-M2,NEIG-12100,P0361,2,3.0,0-5,Female,Multiracial,Child
+NEIG-12100-M3,NEIG-12100,P0361,3,1.0,0-5,Female,Multiracial,Child
+NEIG-12100-M4,NEIG-12100,P0361,4,35.0,18-64,Male,Not recorded,Not recorded
+NEIG-12079-M1,NEIG-12079,P0038,1,4.0,0-5,Female,Not recorded,Not recorded
+NEIG-12079-M2,NEIG-12079,P0038,2,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-12079-M3,NEIG-12079,P0038,3,0.0,0-5,Female,Not recorded,Child
+NEIG-12063-M1,NEIG-12063,P0382,1,10.0,6-17,Male,Not recorded,Child
+NEIG-12063-M2,NEIG-12063,P0382,2,7.0,6-17,Male,Not recorded,Child
+NEIG-12063-M3,NEIG-12063,P0382,3,2.0,0-5,Male,Not recorded,Child
+NEIG-12060-M1,NEIG-12060,P0031,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-12019-M1,NEIG-12019,P0362,1,1.0,0-5,Male,Black or African American,Child
+NEIG-12019-M2,NEIG-12019,P0362,2,5.0,0-5,Female,Black or African American,Child
+NEIG-12019-M3,NEIG-12019,P0362,3,24.0,18-64,Male,Not recorded,Not recorded
+NEIG-12012-M1,NEIG-12012,P0182,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-12008-M1,NEIG-12008,P0198,1,9.0,6-17,Female,Black or African American,Child
+NEIG-12008-M2,NEIG-12008,P0198,2,4.0,0-5,Female,Black or African American,Child
+NEIG-11984-M1,NEIG-11984,P0322,1,,Not recorded,Not recorded,Not recorded,Parent
+NEIG-11984-M2,NEIG-11984,P0322,2,,Not recorded,Not recorded,Not recorded,Parent
+NEIG-11974-M1,NEIG-11974,P0246,1,3.0,0-5,Female,Not recorded,Not recorded
+NEIG-11974-M2,NEIG-11974,P0246,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-11972-M1,NEIG-11972,P0297,1,18.0,18-64,Female,Not recorded,Not recorded
+NEIG-11972-M2,NEIG-11972,P0297,2,16.0,6-17,Female,Not recorded,Not recorded
+NEIG-11972-M3,NEIG-11972,P0297,3,10.0,6-17,Female,Not recorded,Not recorded
+NEIG-11972-M4,NEIG-11972,P0297,4,1.0,0-5,Male,Not recorded,Not recorded
+NEIG-11961-M1,NEIG-11961,P0018,1,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11949-M1,NEIG-11949,P0216,1,10.0,6-17,Male,Not recorded,Not recorded
+NEIG-11936-M1,NEIG-11936,P0375,1,12.0,6-17,Female,Not recorded,Child
+NEIG-11936-M2,NEIG-11936,P0375,2,7.0,6-17,Female,Not recorded,Child
+NEIG-11936-M3,NEIG-11936,P0375,3,4.0,0-5,Female,Not recorded,Child
+NEIG-11936-M4,NEIG-11936,P0375,4,4.0,0-5,Female,Not recorded,Child
+NEIG-11920-M1,NEIG-11920,P0163,1,9.0,6-17,Female,Black or African American,Child
+NEIG-11920-M2,NEIG-11920,P0163,2,7.0,6-17,Male,Black or African American,Child
+NEIG-11920-M3,NEIG-11920,P0163,3,5.0,0-5,Female,Black or African American,Child
+NEIG-11908-M1,NEIG-11908,P0344,1,9.0,6-17,Female,Multiracial,Child
+NEIG-11901-M1,NEIG-11901,P0347,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-11901-M2,NEIG-11901,P0347,2,32.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-11901-M3,NEIG-11901,P0347,3,36.0,18-64,Not recorded,Not recorded,Spouse/partner
+NEIG-11901-M4,NEIG-11901,P0347,4,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-11901-M5,NEIG-11901,P0347,5,9.0,6-17,Not recorded,Not recorded,Not recorded
+NEIG-11901-M6,NEIG-11901,P0347,6,5.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11901-M7,NEIG-11901,P0347,7,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11842-M1,NEIG-11842,P0386,1,7.0,6-17,Female,Black or African American,Child
+NEIG-11842-M2,NEIG-11842,P0386,2,1.0,0-5,Male,Black or African American,Child
+NEIG-11828-M1,NEIG-11828,P0274,1,17.0,6-17,Not recorded,Not recorded,Child
+NEIG-11770-M1,NEIG-11770,P0132,1,1.0,0-5,Female,Black or African American,Child
+NEIG-11757-M1,NEIG-11757,P0074,1,2.0,0-5,Male,Black or African American,Child
+NEIG-11740-M1,NEIG-11740,P0396,1,15.0,6-17,Male,Not recorded,Child
+NEIG-11735-M1,NEIG-11735,P0210,1,12.0,6-17,Male,Not recorded,Child
+NEIG-11727-M1,NEIG-11727,P0243,1,1.0,0-5,Male,Black or African American,Child
+NEIG-11727-M2,NEIG-11727,P0243,2,2.0,0-5,Male,Black or African American,Child
+NEIG-11727-M3,NEIG-11727,P0243,3,4.0,0-5,Female,Not recorded,Not recorded
+NEIG-11727-M4,NEIG-11727,P0243,4,6.0,6-17,Male,Black or African American,Child
+NEIG-11727-M5,NEIG-11727,P0243,5,8.0,6-17,Female,Not recorded,Not recorded
+NEIG-11727-M6,NEIG-11727,P0243,6,9.0,6-17,Female,Not recorded,Not recorded
+NEIG-11727-M7,NEIG-11727,P0243,7,10.0,6-17,Female,Not recorded,Not recorded
+NEIG-11727-M8,NEIG-11727,P0243,8,11.0,6-17,Female,Not recorded,Not recorded
+NEIG-11713-M1,NEIG-11713,P0315,1,7.0,6-17,Female,Not recorded,Not recorded
+NEIG-11713-M2,NEIG-11713,P0315,2,6.0,6-17,Male,Not recorded,Not recorded
+NEIG-11713-M3,NEIG-11713,P0315,3,5.0,0-5,Male,Not recorded,Not recorded
+NEIG-11697-M1,NEIG-11697,P0203,1,36.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-11658-M1,NEIG-11658,P0057,1,16.0,6-17,Female,Black or African American,Child
+NEIG-11658-M2,NEIG-11658,P0057,2,7.0,6-17,Female,Black or African American,Child
+NEIG-11658-M3,NEIG-11658,P0057,3,5.0,0-5,Female,Not recorded,Child
+NEIG-11658-M4,NEIG-11658,P0057,4,2.0,0-5,Male,Black or African American,Child
+NEIG-11622-M1,NEIG-11622,P0109,1,6.0,6-17,Not recorded,Not recorded,Child
+NEIG-11622-M2,NEIG-11622,P0109,2,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-11622-M3,NEIG-11622,P0109,3,5.0,0-5,Not recorded,Not recorded,Child
+NEIG-11622-M4,NEIG-11622,P0109,4,2.0,0-5,Not recorded,Not recorded,Child
+NEIG-11622-M5,NEIG-11622,P0109,5,0.0,0-5,Not recorded,Not recorded,Child
+NEIG-11615-M1,NEIG-11615,P0265,1,0.0,0-5,Male,Not recorded,Child
+NEIG-11612-M1,NEIG-11612,P0001,1,,Not recorded,Female,Not recorded,Parent
+NEIG-11612-M2,NEIG-11612,P0001,2,,Not recorded,Male,Not recorded,Child
+NEIG-11608-M1,NEIG-11608,P0319,1,0.0,0-5,Female,Not recorded,Child
+NEIG-11584-M1,NEIG-11584,P0291,1,8.0,6-17,Male,Not recorded,Child
+NEIG-11584-M2,NEIG-11584,P0291,2,7.0,6-17,Male,Not recorded,Child
+NEIG-11584-M3,NEIG-11584,P0291,3,5.0,0-5,Female,Not recorded,Child
+NEIG-11564-M1,NEIG-11564,P0148,1,,Not recorded,Male,Not recorded,Child
+NEIG-11460-M1,NEIG-11460,P0110,1,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11424-M1,NEIG-11424,P0263,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-11347-M1,NEIG-11347,P0097,1,9.0,6-17,Female,Not recorded,Child
+NEIG-11347-M2,NEIG-11347,P0097,2,4.0,0-5,Male,Not recorded,Child
+NEIG-11347-M3,NEIG-11347,P0097,3,30.0,18-64,Female,Not recorded,Not recorded
+NEIG-11340-M1,NEIG-11340,P0178,1,4.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11303-M1,NEIG-11303,P0256,1,,Not recorded,Female,Black or African American,Child
+NEIG-11303-M2,NEIG-11303,P0256,2,13.0,6-17,Male,Black or African American,Child
+NEIG-11303-M3,NEIG-11303,P0256,3,4.0,0-5,Male,Black or African American,Child
+NEIG-11303-M4,NEIG-11303,P0256,4,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-11274-M1,NEIG-11274,P0017,1,23.0,18-64,Male,White,Spouse/partner
+NEIG-11274-M2,NEIG-11274,P0017,2,4.0,0-5,Male,White,Child
+NEIG-11274-M3,NEIG-11274,P0017,3,3.0,0-5,Female,White,Child
+NEIG-11274-M4,NEIG-11274,P0017,4,1.0,0-5,Female,White,Child
+NEIG-11181-M1,NEIG-11181,P0283,1,19.0,18-64,Male,Black or African American,Child
+NEIG-11181-M2,NEIG-11181,P0283,2,11.0,6-17,Male,Black or African American,Child
+NEIG-11181-M3,NEIG-11181,P0283,3,9.0,6-17,Male,Black or African American,Child
+NEIG-11181-M4,NEIG-11181,P0283,4,4.0,0-5,Female,Black or African American,Child
+NEIG-11156-M1,NEIG-11156,P0095,1,69.0,65+,Female,Not recorded,Not recorded
+NEIG-11156-M2,NEIG-11156,P0095,2,2.0,0-5,Male,Black or African American,Child
+NEIG-11156-M3,NEIG-11156,P0095,3,0.0,0-5,Female,Black or African American,Child
+NEIG-11138-M1,NEIG-11138,P0224,1,,Not recorded,Male,Not recorded,Child
+NEIG-11138-M2,NEIG-11138,P0224,2,2.0,0-5,Male,Not recorded,Child
+NEIG-11062-M1,NEIG-11062,P0194,1,2.0,0-5,Female,White,Child
+NEIG-11044-M1,NEIG-11044,P0329,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-11044-M2,NEIG-11044,P0329,2,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-10995-M1,NEIG-10995,P0092,1,11.0,6-17,Not recorded,Multiracial,Child
+NEIG-10995-M2,NEIG-10995,P0092,2,5.0,0-5,Not recorded,Multiracial,Child
+NEIG-10995-M3,NEIG-10995,P0092,3,2.0,0-5,Not recorded,Multiracial,Child
+NEIG-10981-M1,NEIG-10981,P0137,1,31.0,18-64,Female,Not recorded,Not recorded
+NEIG-10911-M1,NEIG-10911,P0088,1,52.0,18-64,Female,Not recorded,Not recorded
+NEIG-10911-M2,NEIG-10911,P0088,2,17.0,6-17,Female,Not recorded,Not recorded
+NEIG-10903-M1,NEIG-10903,P0084,1,,Not recorded,Not recorded,Not recorded,Not recorded
+NEIG-10872-M1,NEIG-10872,P0066,1,38.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-10872-M2,NEIG-10872,P0066,2,9.0,6-17,Not recorded,Not recorded,Child
+NEIG-10872-M3,NEIG-10872,P0066,3,16.0,6-17,Not recorded,Not recorded,Child
+NEIG-10872-M4,NEIG-10872,P0066,4,6.0,6-17,Not recorded,Not recorded,Other relative
+NEIG-10872-M5,NEIG-10872,P0066,5,2.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-10872-M6,NEIG-10872,P0066,6,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-10872-M7,NEIG-10872,P0066,7,1.0,0-5,Not recorded,Not recorded,Not recorded
+NEIG-10816-M1,NEIG-10816,P0320,1,46.0,18-64,Not recorded,Not recorded,Not recorded
+NEIG-10811-M1,NEIG-10811,P0130,1,6.0,6-17,Female,Black or African American,Child
+NEIG-10811-M2,NEIG-10811,P0130,2,0.0,0-5,Female,Black or African American,Child
+NEIG-10775-M1,NEIG-10775,P0284,1,1.0,0-5,Male,White,Child
+NEIG-10769-M1,NEIG-10769,P0177,1,1.0,0-5,Female,Not recorded,Not recorded
+NEIG-10769-M2,NEIG-10769,P0177,2,0.0,0-5,Female,Not recorded,Not recorded
+NEIG-10761-M1,NEIG-10761,P0369,1,7.0,6-17,Male,Not recorded,Child
+NEIG-10753-M1,NEIG-10753,P0171,1,4.0,0-5,Male,Black or African American,Child
+NEIG-10753-M2,NEIG-10753,P0171,2,4.0,0-5,Male,Black or African American,Child
+NEIG-10748-M1,NEIG-10748,P0114,1,29.0,18-64,Male,Black or African American,Spouse/partner
+NEIG-10748-M2,NEIG-10748,P0114,2,5.0,0-5,Male,Black or African American,Child
+NEIG-10748-M3,NEIG-10748,P0114,3,14.0,6-17,Female,Black or African American,Child
+NEIG-10748-M4,NEIG-10748,P0114,4,3.0,0-5,Male,Black or African American,Child
+NEIG-10735-M1,NEIG-10735,P0230,1,34.0,18-64,Not recorded,Not recorded,Child
+NEIG-10695-M1,NEIG-10695,P0337,1,6.0,6-17,Not recorded,Not recorded,Child

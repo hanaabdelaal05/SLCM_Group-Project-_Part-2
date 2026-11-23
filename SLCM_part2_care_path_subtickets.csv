@@ -1,0 +1,214 @@
+issue_key,parent_issue_key,parent_in_file,pid,care_path_type,created_date,case_status,case_status_category,pid_matches_parent,care_path_group
+NEIG-18975,NEIG-18325,Yes,P0005,Food Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-18962,NEIG-18142,Yes,P0072,Utility Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,utility
+NEIG-18959,NEIG-18572,Yes,P0262,Rent Assistance Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18954,NEIG-18034,Yes,P0150,Basic Supplies,2026-08-05,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-18951,NEIG-18014,Yes,P0013,House Navigation Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-18941,NEIG-17963,Yes,P0328,Rent Assistance Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18940,NEIG-17963,Yes,P0328,House Navigation Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-18933,NEIG-17836,Yes,P0067,Rent Assistance Care Path,2026-08-05,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18876,NEIG-17729,Yes,P0020,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18875,NEIG-17718,Yes,P0141,House Navigation Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-18864,NEIG-17615,Yes,P0019,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18851,NEIG-17557,Yes,P0374,House Navigation Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-18848,NEIG-17497,Yes,P0397,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-18845,NEIG-17483,Yes,P0059,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18844,NEIG-17469,Yes,P0142,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18843,NEIG-17469,Yes,P0142,Food Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-18828,NEIG-17385,Yes,P0189,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18822,NEIG-17374,Yes,P0351,Foreclosure Prevention/Mortgage Assistance,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18817,NEIG-17311,Yes,P0345,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18813,NEIG-17143,Yes,P0147,Rent Assistance Care Path,2026-08-04,Goal No Longer Wanted,Done,Yes,rent_assistance
+NEIG-18812,NEIG-17230,Yes,P0060,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18807,NEIG-17190,Yes,P0181,Legal Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,legal
+NEIG-18800,NEIG-17114,Yes,P0313,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18799,NEIG-17106,Yes,P0258,Rent Assistance Care Path,2026-08-04,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18777,NEIG-16998,Yes,P0073,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18769,NEIG-16919,Yes,P0378,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18768,NEIG-16897,Yes,P0398,Rent Assistance Care Path,2026-08-03,Goal Attained,Done,No,rent_assistance
+NEIG-18767,NEIG-16886,Yes,P0008,Eviction Prevention Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18766,NEIG-16877,Yes,P0170,Food Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-18765,NEIG-16877,Yes,P0170,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18764,NEIG-16874,Yes,P0026,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18763,NEIG-16785,Yes,P0080,House Navigation Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-18761,NEIG-16759,Yes,P0366,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18760,NEIG-16752,Yes,P0250,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18759,NEIG-16733,Yes,P0252,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18755,NEIG-16636,Yes,P0044,Legal Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,legal
+NEIG-18752,NEIG-16608,Yes,P0281,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18750,NEIG-16567,Yes,P0145,Rent Assistance Care Path,2026-08-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-18745,NEIG-16509,Yes,P0169,Rent Assistance Care Path,2026-08-03,Goal Attained,Done,Yes,rent_assistance
+NEIG-18506,NEIG-14793,Yes,P0302,Digital Access,2026-07-29,Goal Attained,Done,Yes,basic_needs
+NEIG-17113,NEIG-16331,Yes,P0091,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-17105,NEIG-16058,Yes,P0385,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-17104,NEIG-15860,Yes,P0399,Basic Supplies,2026-07-06,External Org to Complete Goal,Done,No,basic_needs
+NEIG-17103,NEIG-15860,Yes,P0400,Basic Supplies,2026-07-06,External Org to Complete Goal,Done,No,basic_needs
+NEIG-17102,NEIG-15860,Yes,P0401,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-17073,NEIG-16394,Yes,P0197,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-17072,NEIG-16394,Yes,P0197,Food Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-17068,NEIG-16359,Yes,P0395,House Navigation Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-17067,NEIG-16359,Yes,P0395,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-17066,NEIG-16342,Yes,P0286,Transportation Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-17065,NEIG-16342,Yes,P0286,Child Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,other_support
+NEIG-17064,NEIG-16342,Yes,P0286,Other,2026-07-06,External Org to Complete Goal,Done,Yes,other_support
+NEIG-17062,NEIG-16174,Yes,P0276,Rent Assistance Care Path,2026-07-06,Friction Point,In Progress,Yes,rent_assistance
+NEIG-17059,NEIG-16615,Yes,P0306,Rent Assistance Care Path,2026-07-06,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16888,NEIG-16532,Yes,P0285,Digital Access,2026-07-01,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-16883,NEIG-16305,Yes,P0187,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16882,NEIG-16301,Yes,P0217,Legal Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,legal
+NEIG-16881,NEIG-16301,Yes,P0217,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16876,NEIG-16248,Yes,P0049,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16873,NEIG-16248,Yes,P0049,Utility Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,utility
+NEIG-16872,NEIG-16248,Yes,P0049,Legal Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,legal
+NEIG-16871,NEIG-16215,Yes,P0157,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16867,NEIG-16180,Yes,P0036,Legal Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,legal
+NEIG-16865,NEIG-16171,Yes,P0336,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16862,NEIG-16164,Yes,P0159,House Navigation Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-16861,NEIG-16162,Yes,P0402,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-16854,NEIG-15969,Yes,P0254,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16853,NEIG-15969,Yes,P0254,Medical Costs or Bills,2026-07-01,Goal No Longer Wanted,Done,Yes,basic_needs
+NEIG-16846,NEIG-15827,Yes,P0220,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16842,NEIG-15718,Yes,P0213,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16837,NEIG-15682,Yes,P0081,House Navigation Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-16835,NEIG-15672,Yes,P0363,Basic Supplies,2026-07-01,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-16834,NEIG-15672,Yes,P0363,Other,2026-07-01,Goal No Longer Needed,Done,Yes,other_support
+NEIG-16817,NEIG-15604,Yes,P0356,Rent Assistance Care Path,2026-07-01,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-16551,NEIG-16007,Yes,P0180,Basic Supplies,2026-06-25,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-16521,NEIG-14793,Yes,P0302,Basic Supplies,2026-06-24,Connected to Resource,In Progress,Yes,basic_needs
+NEIG-15815,NEIG-15595,Yes,P0135,Rent Assistance Care Path,2026-06-12,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15813,NEIG-15532,Yes,P0219,House Navigation Care Path,2026-06-12,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-15812,NEIG-15532,Yes,P0219,House Navigation Care Path,2026-06-12,New,To Do,Yes,housing_navigation
+NEIG-15811,NEIG-15483,Yes,P0212,Rent Assistance Care Path,2026-06-12,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15810,NEIG-15478,Yes,P0280,Rent Assistance Care Path,2026-06-12,Unable to Contact/Stopped Communication,Done,Yes,rent_assistance
+NEIG-15799,NEIG-15230,Yes,P0133,Rent Assistance Care Path,2026-06-12,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15798,NEIG-15230,Yes,P0133,Medical Costs or Bills,2026-06-12,Goal No Longer Wanted,Done,Yes,basic_needs
+NEIG-15797,NEIG-15206,Yes,P0076,Rent Assistance Care Path,2026-06-12,Goal No Longer Wanted,Done,Yes,rent_assistance
+NEIG-15496,NEIG-15463,Yes,P0122,Rent Assistance Care Path,2026-06-04,Unable to Contact/Stopped Communication,Done,Yes,rent_assistance
+NEIG-15381,NEIG-15057,Yes,P0249,Rent Assistance Care Path,2026-06-02,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15296,NEIG-14690,Yes,P0129,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15295,NEIG-15051,Yes,P0403,House Navigation Care Path,2026-05-29,External Org to Complete Goal,Done,No,housing_navigation
+NEIG-15294,NEIG-15051,Yes,P0404,Utility Care Path,2026-05-29,External Org to Complete Goal,Done,No,utility
+NEIG-15283,NEIG-14175,Yes,P0255,Utility Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,utility
+NEIG-15282,NEIG-14175,Yes,P0255,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15280,NEIG-14086,Yes,P0086,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15267,NEIG-15064,Yes,P0405,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-15265,NEIG-15028,Yes,P0236,Case Management Navigation Path,2026-05-29,External Org to Complete Goal,Done,Yes,other_support
+NEIG-15257,NEIG-14901,Yes,P0326,Basic Supplies,2026-05-29,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-15251,NEIG-14864,Yes,P0087,Basic Supplies,2026-05-29,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-15250,NEIG-14864,Yes,P0087,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15249,NEIG-14853,Yes,P0295,Legal Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,legal
+NEIG-15248,NEIG-14838,Yes,P0332,Rent Assistance Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-15247,NEIG-14838,Yes,P0332,Utility Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,utility
+NEIG-15244,NEIG-14793,Yes,P0302,House Navigation Care Path,2026-05-29,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-15241,NEIG-9755,No,P0406,Transportation Care Path,2026-05-29,Goal Attained,Done,Parent not in file,basic_needs
+NEIG-15076,NEIG-14696,Yes,P0282,Basic Supplies,2026-05-26,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-15075,NEIG-14696,Yes,P0282,Pregnancy/Postpartum Care Path,2026-05-26,External Org to Complete Goal,Done,Yes,other_support
+NEIG-14957,NEIG-14724,Yes,P0260,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14955,NEIG-14708,Yes,P0379,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14953,NEIG-14657,Yes,P0271,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14952,NEIG-14650,Yes,P0041,Basic Supplies,2026-05-19,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-14951,NEIG-14650,Yes,P0041,Pregnancy/Postpartum Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,other_support
+NEIG-14948,NEIG-14633,Yes,P0407,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-14947,NEIG-14623,Yes,P0408,House Navigation Care Path,2026-05-19,External Org to Complete Goal,Done,No,housing_navigation
+NEIG-14943,NEIG-14561,Yes,P0160,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14940,NEIG-14552,Yes,P0024,Medical Costs or Bills,2026-05-19,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-14939,NEIG-14552,Yes,P0024,Basic Supplies,2026-05-19,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-14935,NEIG-14457,Yes,P0409,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-14933,NEIG-14436,Yes,P0256,Rent Assistance Care Path,2026-05-19,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14810,NEIG-14601,Yes,P0373,Transportation Care Path,2026-05-14,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-14409,NEIG-14289,Yes,P0199,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14407,NEIG-14354,Yes,P0124,Utility Care Path,2026-04-29,Goal No Longer Wanted,Done,Yes,utility
+NEIG-14406,NEIG-14354,Yes,P0124,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14395,NEIG-14189,Yes,P0043,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14392,NEIG-14143,Yes,P0367,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14389,NEIG-14116,Yes,P0011,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14387,NEIG-14074,Yes,P0342,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14386,NEIG-14051,Yes,P0107,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14369,NEIG-14345,Yes,P0235,Rent Assistance Care Path,2026-04-29,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14160,NEIG-11044,Yes,P0330,Care Plan,2026-04-21,Open,To Do,No,other_support
+NEIG-14028,NEIG-13372,Yes,P0229,Rent Assistance Care Path,2026-04-17,Goal Attained,Done,Yes,rent_assistance
+NEIG-14023,NEIG-13273,Yes,P0058,Rent Assistance Care Path,2026-04-17,Goal Attained,Done,Yes,rent_assistance
+NEIG-14021,NEIG-13911,Yes,P0394,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14019,NEIG-13898,Yes,P0391,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14016,NEIG-13826,Yes,P0314,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14015,NEIG-13824,Yes,P0101,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14014,NEIG-13811,Yes,P0173,Job Search/Workforce Development Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,other_support
+NEIG-14005,NEIG-13703,Yes,P0350,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-14003,NEIG-13674,Yes,P0205,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13996,NEIG-13635,Yes,P0259,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13994,NEIG-13629,Yes,P0266,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13993,NEIG-13612,Yes,P0341,Rent Assistance Care Path,2026-04-17,Goal Attained,Done,Yes,rent_assistance
+NEIG-13992,NEIG-13606,Yes,P0305,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13987,NEIG-13492,Yes,P0292,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13986,NEIG-13484,Yes,P0323,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13978,NEIG-13367,Yes,P0410,Rent Assistance Care Path,2026-04-17,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-13564,NEIG-13305,Yes,P0296,Legal Assistance Care Path,2026-04-06,External Org to Complete Goal,Done,Yes,legal
+NEIG-13557,NEIG-13545,Yes,P0411,Children's Welfare (CPS),2026-04-06,Unable to Contact/Stopped Communication,Done,No,other_support
+NEIG-13519,NEIG-13305,Yes,P0296,Rent Assistance Care Path,2026-04-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-13509,NEIG-13125,Yes,P0312,Basic Supplies,2026-04-03,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-13508,NEIG-13104,Yes,P0065,House Navigation Care Path,2026-04-03,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-13507,NEIG-13197,Yes,P0221,House Navigation Care Path,2026-04-03,New,To Do,Yes,housing_navigation
+NEIG-13506,NEIG-13197,Yes,P0221,Child Care Path,2026-04-03,External Org to Complete Goal,Done,Yes,other_support
+NEIG-13124,NEIG-1585,No,P0412,Other,2026-03-25,Connected to Resource,In Progress,Parent not in file,other_support
+NEIG-13080,NEIG-12100,Yes,P0413,Other,2026-03-23,Unable to Contact/Stopped Communication,Done,No,other_support
+NEIG-13050,NEIG-13025,Yes,P0288,Rent Assistance Care Path,2026-03-23,Goal Attained,Done,Yes,rent_assistance
+NEIG-13038,NEIG-12928,Yes,P0027,Utility Care Path,2026-03-20,External Org to Complete Goal,Done,Yes,utility
+NEIG-13037,NEIG-12928,Yes,P0027,Digital Access,2026-03-20,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-13036,NEIG-12928,Yes,P0027,Basic Supplies,2026-03-20,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-13034,NEIG-12390,Yes,P0414,Basic Supplies,2026-03-20,External Org to Complete Goal,Done,No,basic_needs
+NEIG-13008,NEIG-12717,Yes,P0304,Rent Assistance Care Path,2026-03-20,Goal Attained,Done,Yes,rent_assistance
+NEIG-13006,NEIG-12683,Yes,P0101,Rent Assistance Care Path,2026-03-20,Goal Attained,Done,Yes,rent_assistance
+NEIG-12960,NEIG-9755,No,P0415,Basic Supplies,2026-03-18,New,To Do,Parent not in file,basic_needs
+NEIG-12959,NEIG-9755,No,P0416,Play Cousins Care Path,2026-03-18,New,To Do,Parent not in file,other_support
+NEIG-12949,NEIG-12390,Yes,P0016,Transportation Care Path,2026-03-18,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-12900,NEIG-12830,Yes,P0179,Utility Care Path,2026-03-17,External Org to Complete Goal,Done,Yes,utility
+NEIG-12813,NEIG-12572,Yes,P0161,House Navigation Care Path,2026-03-13,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-12793,NEIG-12698,Yes,P0115,Rent Assistance Care Path,2026-03-12,Service Gap,Done,Yes,rent_assistance
+NEIG-12764,NEIG-12577,Yes,P0021,Rent Assistance Care Path,2026-03-12,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-12752,NEIG-12402,Yes,P0029,Rent Assistance Care Path,2026-03-11,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-12750,NEIG-12319,Yes,P0311,House Navigation Care Path,2026-03-11,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-12679,NEIG-11972,Yes,P0417,Other,2026-03-09,New,To Do,No,other_support
+NEIG-12592,NEIG-12589,Yes,P0111,House Navigation Care Path,2026-03-05,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-12591,NEIG-12589,Yes,P0111,Rent Assistance Care Path,2026-03-05,Service Gap,Done,Yes,rent_assistance
+NEIG-12559,NEIG-11972,Yes,P0418,Other,2026-03-04,Connected to Resource,In Progress,No,other_support
+NEIG-12537,NEIG-12213,Yes,P0419,Rent Assistance Care Path,2026-03-04,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-12517,NEIG-12366,Yes,P0268,Utility Care Path,2026-03-03,External Org to Complete Goal,Done,Yes,utility
+NEIG-12516,NEIG-12408,Yes,P0090,House Navigation Care Path,2026-03-03,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-12515,NEIG-12264,Yes,P0030,Basic Supplies,2026-03-03,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-12509,NEIG-12100,Yes,P0361,Rent Assistance Care Path,2026-03-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-12507,NEIG-12060,Yes,P0031,Rent Assistance Care Path,2026-03-03,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-12506,NEIG-12165,Yes,P0056,House Navigation Care Path,2026-03-03,Identifying Resources,In Progress,Yes,housing_navigation
+NEIG-12500,NEIG-12378,Yes,P0105,Utility Care Path,2026-03-03,External Org to Complete Goal,Done,Yes,utility
+NEIG-12499,NEIG-12307,Yes,P0420,Utility Care Path,2026-03-03,External Org to Complete Goal,Done,No,utility
+NEIG-12466,NEIG-11936,Yes,P0375,Rent Assistance Care Path,2026-03-02,Goal Attained,Done,Yes,rent_assistance
+NEIG-12465,NEIG-11740,Yes,P0421,Rent Assistance Care Path,2026-03-02,Goal Attained,Done,No,rent_assistance
+NEIG-12464,NEIG-11638,Yes,P0128,House Navigation Care Path,2026-03-02,External Org to Complete Goal,Done,Yes,housing_navigation
+NEIG-12463,NEIG-11608,Yes,P0422,Rent Assistance Care Path,2026-03-02,Goal Attained,Done,No,rent_assistance
+NEIG-12446,NEIG-12346,Yes,P0240,Rent Assistance Care Path,2026-03-02,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-12295,NEIG-12019,Yes,P0423,Other,2026-02-26,External Org to Complete Goal,Done,No,other_support
+NEIG-12140,NEIG-12008,Yes,P0424,Healthcare Navigation Path,2026-02-20,External Org to Complete Goal,Done,No,other_support
+NEIG-12139,NEIG-11984,Yes,P0425,House Navigation Care Path,2026-02-20,External Org to Complete Goal,Done,No,housing_navigation
+NEIG-12134,NEIG-11757,Yes,P0426,Rent Assistance Care Path,2026-02-20,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-12133,NEIG-11735,Yes,P0210,Rent Assistance Care Path,2026-02-20,Goal Attained,Done,Yes,rent_assistance
+NEIG-11948,NEIG-11584,Yes,P0427,Rent Assistance Care Path,2026-02-16,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-11932,NEIG-11293,Yes,P0099,Rent Assistance Care Path,2026-02-16,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-11916,NEIG-7889,No,P0428,House Navigation Care Path,2026-02-13,External Org to Complete Goal,Done,Parent not in file,housing_navigation
+NEIG-11915,NEIG-7889,No,P0429,Eviction Prevention Care Path,2026-02-13,Goal No Longer Needed,Done,Parent not in file,rent_assistance
+NEIG-11827,NEIG-6161,No,P0430,Play Cousins Care Path,2026-02-10,New,To Do,Parent not in file,other_support
+NEIG-11726,NEIG-10816,Yes,P0431,Utility Care Path,2026-02-05,External Org to Complete Goal,Done,No,utility
+NEIG-11580,NEIG-11460,Yes,P0110,Healthcare Navigation Path,2026-02-02,External Org to Complete Goal,Done,Yes,other_support
+NEIG-11579,NEIG-11460,Yes,P0110,Rent Assistance Care Path,2026-02-02,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-11486,NEIG-9412,No,P0432,House Navigation Care Path,2026-01-28,External Org to Complete Goal,Done,Parent not in file,housing_navigation
+NEIG-11484,NEIG-11424,Yes,P0433,Rent Assistance Care Path,2026-01-28,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-11452,NEIG-859,No,P0434,Other,2026-01-27,Connected to Resource,In Progress,Parent not in file,other_support
+NEIG-11451,NEIG-6192,No,P0435,Other,2026-01-27,Unable to Contact/Stopped Communication,Done,Parent not in file,other_support
+NEIG-11387,NEIG-11181,Yes,P0283,Rent Assistance Care Path,2026-01-22,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-11366,NEIG-10995,Yes,P0092,Rent Assistance Care Path,2026-01-22,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-11354,NEIG-10903,Yes,P0084,Transportation Care Path,2026-01-22,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-11346,NEIG-10757,Yes,P0183,Rent Assistance Care Path,2026-01-22,External Org to Complete Goal,Done,Yes,rent_assistance
+NEIG-11320,NEIG-11303,Yes,P0256,Rent Assistance Care Path,2026-01-21,Goal No Longer Wanted,Done,Yes,rent_assistance
+NEIG-10901,NEIG-10695,Yes,P0436,Rent Assistance Care Path,2026-01-09,External Org to Complete Goal,Done,No,rent_assistance
+NEIG-10900,NEIG-10678,No,P0437,Eviction Prevention Care Path,2026-01-09,External Org to Complete Goal,Done,Parent not in file,rent_assistance
+NEIG-10889,NEIG-10735,Yes,P0230,Basic Supplies,2026-01-09,External Org to Complete Goal,Done,Yes,basic_needs
+NEIG-10888,NEIG-10562,No,P0438,Rent Assistance Care Path,2026-01-09,External Org to Complete Goal,Done,Parent not in file,rent_assistance
+NEIG-10887,NEIG-10562,No,P0439,Food Care Path,2026-01-09,External Org to Complete Goal,Done,Parent not in file,basic_needs
